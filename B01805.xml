@@ -1,0 +1,980 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In speculo teipsum contemplare Dr. Black. A looking-glass for the black band of doctors VVherein may be seen the ignorance and malice of these physicians, who have clubbed under the name of Dr. Black, for suppressing by their scriblings, and other calumnies, so great a benefite to the world, to the new game of rivers. / Contained in a 2d. letter written by Philander to his friend in the countrey Philomathes. In defence of Dr. Brown.</title>
+            <author>Brown, Andrew, M.D.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 98 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01805</idno>
+            <idno type="STC">Wing B5008</idno>
+            <idno type="STC">ESTC R216736</idno>
+            <idno type="EEBO-CITATION">99828457</idno>
+            <idno type="PROQUEST">99828457</idno>
+            <idno type="VID">175443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175443)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2737:3, 1963:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>In speculo teipsum contemplare Dr. Black. A looking-glass for the black band of doctors VVherein may be seen the ignorance and malice of these physicians, who have clubbed under the name of Dr. Black, for suppressing by their scriblings, and other calumnies, so great a benefite to the world, to the new game of rivers. / Contained in a 2d. letter written by Philander to his friend in the countrey Philomathes. In defence of Dr. Brown.</title>
+                  <author>Brown, Andrew, M.D.</author>
+               </titleStmt>
+               <extent>47, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heir of Andrew Anderson, printer to their most Excellent Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Discusses the use of vomiting for the cure of fevers.</note>
+                  <note>With a final errata leaf.</note>
+                  <note>Reproduction of the originals in the British Library and the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fever --  Treatment --  Early works to 1800.</term>
+               <term>Vomiting --  Treatment --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175443:1"/>
+            <pb facs="tcp:175443:1"/>
+            <pb facs="tcp:175443:2"/>
+            <pb facs="tcp:175443:2"/>
+            <pb facs="tcp:175443:3"/>
+            <pb facs="tcp:175443:3"/>
+            <p>
+               <hi>In speculo teipſum Contemplare Dr.</hi> BLACK. A Looking-Glaſs for the Black-Band of <hi>Doctors.</hi> VVherein may be ſeen the Igno<g ref="char:EOLhyphen"/>rance and Malice of theſe <hi>Phyſicians,</hi> who have Clubbed under the Name of Dr. <hi>BLACK,</hi> for ſuppreſsing by their Scriblings, and other Calumnies, ſo great a benefite to the World, as the new Cure of Fevers. Contained in a <hi>2d.</hi> Letter written by <hi>Philander</hi> to his Friend in the Countrey <hi>Philomathes.</hi> In Defence of <hi>Dr. BRO<g ref="char:V">Ʋ</g>N.</hi>
+            </p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the <hi>Heir</hi> of <hi>Andrew Anderſon,</hi> Printer to their moſt Excellent Majeſties, 1692.</p>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:175443:4"/>
+            <head>Dictum Biantis Prienenſis.</head>
+            <q>
+               <hi>In ſpeculo teipſum Contemplare, et ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> form<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſus apparebis, Age ca quae formam deceant, ſin de<g ref="char:EOLhyphen"/>formis, qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in facie minus eſt, vel deeſt, id mor<g ref="char:EOLhyphen"/>um pulchritudine penſato: Audito multa, l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quere pauca.</hi>
+            </q>
+            <p>When every School-Boy knows this wiſe Pre<g ref="char:EOLhyphen"/>cept, <hi>Learned Club,</hi> you cannot be Ignorant of it: But ſurely the Reaſon why you have ſo much ſlighted it, muſt be, becauſe you have by the like Rapture of Learning, that you ex<g ref="char:EOLhyphen"/>pounded <hi>Philander,</hi> (making thereof <hi>fool An<g ref="char:EOLhyphen"/>dro</hi>) Taken <hi>Biantis</hi> for <hi>Banters,</hi> and <hi>Pirenenſis</hi> for <hi>pire non-ſenſe.</hi>
+            </p>
+         </div>
+         <div type="publisher_to_the_reader">
+            <pb n="3" facs="tcp:175443:4"/>
+            <head>
+               <hi>Advertisement by the Publiſher</hi> TO The READER.</head>
+            <p>ALbeit the Clubs Dialogue written againſt Dr. <hi>Brown,</hi> contained as much Impertinency, as might juſtly have moved any Man of moderat Mildneſs and Temper, to have Retorted it with the like. Yet Dr. <hi>Brown</hi> would ſo fat ſurmount theſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fools, who had no reaſon to be pro<g ref="char:EOLhyphen"/>vocked, that he would not be provocked tho he had rea<g ref="char:EOLhyphen"/>ſon, and ſo there was in <hi>Philanders</hi> firſt Letter, a diſcreet, pertinent and ſolide Anſwer given them, wherein no man was touched. This Diſcretion, and Moderation, it ſeems, ſerved then to no other uſe, than it doth to all Brutiſh, and Degenerous Spirits, to highten their Inſolence, as ap<g ref="char:EOLhyphen"/>peared by A <hi>2d.</hi> Eſſay, emitted by them, a great deal more Infamous and Scurrilous, than the Former. Which, albeit it appeared very Rediculous to all Wiſe Men, yet in regard, a great many of the weaker ſort of People, could not but be exceedingly amazed to ſee ſo many Phy<g ref="char:EOLhyphen"/>ſicians, that pretend to no ſmall Figure in their Profeſſi<g ref="char:EOLhyphen"/>on, Redicule an Improvement about the Cure of Fevers, made ſo Plauſible by Dr. <hi>Brown</hi> and himſelf, Repreſented a meer Ignorant, and Impoſtor; this, as it proved very ſur<g ref="char:EOLhyphen"/>prizing, and aſtoniſhing, ſo it makes it very neceſſary, for ſatisfying the Curious, that there ſhould be yet ſome Con<g ref="char:EOLhyphen"/>ſiderations offered, concerning the Buzle made about this very great Concern.</p>
+            <p>And <hi>Firſt,</hi> It being plain, that although this Point of a moſt effectual Method of Curing Fevers, be of great Im<g ref="char:EOLhyphen"/>port
+<pb n="4" facs="tcp:175443:5"/> to all Men, yet there are very few able by pehetrat<g ref="char:EOLhyphen"/>ing into the Myſtery of the Debate, to be Competent Judges thereof, the moſt part do therefore, by Implicite Faith, acqu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce in the Authority of theſe, they think ſhould, and do know this matter thoroughly.</p>
+            <p>Yet as, <q rend="inline">
+                  <hi>Delirant reges, plectuntur achivi,</hi>
+               </q>
+            </p>
+            <p>
+               <hi>So</hi>
+               <q>
+                  <l>When Doctors rave</l>
+                  <l>They fill the Grave.</l>
+               </q>
+            </p>
+            <p>For oftimes <hi>Phyſicians</hi> by their aſcendant over thevul<g ref="char:EOLhyphen"/>gar, having patcht up an Authority, calculat only for ſelf Intereſt, they do thereby moſt Severely and Succes<g ref="char:EOLhyphen"/>fully Tyrannize over Improvements, and their advancers: In regard they are jealous, ſuch Improvements come to Supplant them, and ſteal away their Gods of Profit, and Eſteem.</p>
+            <p>And next, ſince, in conſequence of this, there ſeems to be no means left to Extrica<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Improvement out of the Pounces of ſuch <hi>Cormorants</hi> and <hi>Harpyes;</hi> but to repreſent them to the World, in their Natural and t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue Shape, and deſpoil them of their borrowed <hi>Plumes</hi> of un<g ref="char:EOLhyphen"/>merited <hi>Eſteem,</hi> acquired through vulgar <hi>Ignorance,</hi> and <hi>Miſtake.</hi>
+            </p>
+            <p>It ſeems abſolutely neceſſary, for undeceiving the the World, and reſcuing the true Intereſt of Mankind, to give Exact <hi>C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aracters</hi> of theſe <hi>Blacks, Wolfs</hi> in <hi>Sheeps Clothing,</hi> and <hi>Enemies to Men,</hi> at leaſt in ſo far as their <hi>Scriblings</hi> and <hi>Calumnies</hi> declare them.</p>
+            <p>And ſo there being only here repreſented a true Hiſto<g ref="char:EOLhyphen"/>ry of Dr. <hi>Black's Phenomena,</hi> and theſe plainly ſolved, by laying down a ſolid <hi>Hypotheſis</hi> of his <hi>Nature:</hi> I hope the <hi>Candid Reader</hi> will not Conſtruct, that Dr. <hi>Broun</hi> is provocked, or that he intends Reviling for <hi>Reviling:</hi> but only that he deſigns, for the Publick Good, to give
+<pb n="5" facs="tcp:175443:5"/> a true Repreſentation of the weak Foundation of that <hi>Tyrannical Authority,</hi> which in its being is Calculated, and Contrived, and in its uſe is moſt advantageouſly ex<g ref="char:EOLhyphen"/>erciſed and imployed, for the Overthrow, and Suppreſ<g ref="char:EOLhyphen"/>ſion of ſo great Benefits, as Improvements in Medicine are; Their ſafety and progreſs being indeed no wayes at<g ref="char:EOLhyphen"/>tainable, ſo long as men that can ſecurely level at Self, and privat <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntereſt, altho at the publick Coaſt, remain in Power and Credit with the World.</p>
+            <p>
+               <hi>Philander</hi> has not gone to beg pitiful ſtories at the Common Strumpet <hi>Fame,</hi> to make up their Hiſtory with, where perhaps he might have made als good purchaſe of Reproachful Tales, as <hi>Black</hi> has done, (none of the <hi>Black Club</hi> being either ſo Innocent in themſelves, or ſuch Darlings of Fame) for</p>
+            <p>
+               <hi>Tam ficti pravi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tenax quam nuncia veri.</hi>
+            </p>
+            <p>But he has only made uſe of ſuch <hi>Documents,</hi> as are drawn from their Writings, and other Actings about this Affair, and when no body is Named, if they hit not right, there is no miſs made, and no body can Complain. And becauſe <hi>Dr. Broun</hi> was unwilling to expoſe theſe Enemies of Truth, before he eſſayed all means for their Reformation, and endeavoured to beg Peace at their hands, long before they were Printed, he gave in his whole Papers to them, to be Conſidered, with the fol<g ref="char:EOLhyphen"/>lowing Letter annexed thereto.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="6" facs="tcp:175443:6"/>
+            <head>
+               <hi>To all</hi> Phyſicians <hi>that are</hi> Dr. Broun's <hi>Enemies, or theſe who have Calumniat him by Printing againſt him, or otherwiſe, A Cha<g ref="char:EOLhyphen"/>ritable Offer of Forgiveneſs and Peace.</hi>
+            </head>
+            <p>THat <hi>Scurrilous</hi> Dialogue, Printed and Diſperſed, with deſign to ſuppreſs my honeſt Endeavours in Relation to the Advancement of Medicine, and wherein you have been concerned, as <hi>Contrivers, Authors, Publiſh<g ref="char:EOLhyphen"/>ers</hi> or <hi>Approvers,</hi> I ſtudied a while to connive at, and to give it ſo General an Anſwer, as might not reflect par<g ref="char:EOLhyphen"/>ticularly on any of you, either directly, or by broad hints: Tho my Vindication in the Opinion of ſome, ſeem<g ref="char:EOLhyphen"/>ed in ſo far defective, that it ſtood meerly on the Defen<g ref="char:EOLhyphen"/>ſive, and not paying you home in the ſame Coyn, wanted ſome Trapings of <hi>Rallery,</hi> to have made it more <hi>Faſhion<g ref="char:EOLhyphen"/>able</hi> and <hi>Paſſing</hi> (that <hi>Rallery</hi> being always flat where no body is hit)</p>
+            <p>Untill your <hi>2d.</hi> Eſſay a great deal more Impertinent then the former, backed alſo with with your conſtant verbal Calumnies, obliged me ſomething to change the former Meaſures, and to give this Anſwer, which (as intending to be more Generous, than at a ſtollen Dint, to make any of you Ridiculous,) <hi>I</hi> have ſent you before it be Printed, to be peruſed: And if there be any thing there<g ref="char:EOLhyphen"/>in you can evince Impertinent, either to my Vindcation or the Vindication of the Improvement, I endeavour to advance, or a more ſevere <hi>Retaliation,</hi> than
+<pb n="7" facs="tcp:175443:6"/> the Provocation Craved (your Scurilities and Calumnies indeed admitting of no other Anſwer.) I am content (as being willing to do my Enemies all Juſtice) it be in ſo far Reformed.</p>
+            <p>There was never any mans Reputation deſigned to be <hi>Impeached</hi> by me, unleſs in ſo far as it's Imployed to barr out Improvements; Some of your Reputations, I endea<g ref="char:EOLhyphen"/>voured to advance <hi>pari paſsu</hi> with this Improvement; But If any mans backwardneſs, becoming too plain, derogat from that Portion of Reputation he is in poſſeſſion of, he knows whom to blame for that. When Diſcoveries, and Mens Reputation turn <hi>Antipods,</hi> and <hi>oppoſite,</hi> the Diſcoveries tending to the <hi>Zenith,</hi> their Reputation will down to <hi>Nadir.</hi> And the greater Pouther be made about Diſcoveries, when they become Conſpicuous, their de<g ref="char:EOLhyphen"/>fects will be the more Legible that make it: And as com<g ref="char:EOLhyphen"/>mon Prudence would oblige all that have common ſence, rather hover a While, than precipitantly condemn mat<g ref="char:EOLhyphen"/>ters of Experiment, which others have found, but they themſelves have never ſeen; So indeed I think a very ſmal touch of the Conſcience of your Duty, as <hi>Phyſicians,</hi> would make you carefully watch all opportunities to ob<g ref="char:EOLhyphen"/>ſerve whether or not this Practice hold to be as Succesful, as it is given forth, &amp; this (which is very ſtrange,) none of you has ever yet taken the pains to do: And ſo how you can Anſwer, either for this neglect, or for your other behavior in this matter, to God or Man, I truly do not underſtand. If I have wronged any of you, I am content of juſt over<g ref="char:EOLhyphen"/>turs for further ſatisfaction, than what already you have taken at your own hands, if further be due: And if you cannot make any wrong appear (which I think ye will not) I am content that being leaſt in the Tranſgreſsion, I have the honour to be firſt in the deſiring a Juſt Ac<g ref="char:EOLhyphen"/>commodation. It may be ſufficiently known to you,
+<pb n="8" facs="tcp:175443:7"/> that I am ſeveral wayes (eſpecially in regard of the cauſe) ſo advantageouſly ſtated, that <hi>I</hi> need not fear your attempt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any other ways, then that they may hurt your ſelves, and prejudge a while the advancement of Medicine. It's therefore Peace and Charity to you, and love to the Publick Good, moves me to this Advertiſement,</p>
+            <p>Since then I am content on very eaſie terms to paſs from any Retaliation, or expoſing you, as here you ſee, as this <hi>I</hi> conceive, will be a conſiderable evidence to the World, of my Peaceable and Charitable Diſpoſition, ſo it will be a pregnant Teſtimony of my affection to the Art which by a Repreſentation of the Matter, or a juſt Retaliation, may perhaps come to ſuffer: And ſhow to all Men, that (like <hi>Solomons</hi> true Mother, that would by no means en<g ref="char:EOLhyphen"/>dure the dividing of the living Child) that I am ſo ten<g ref="char:EOLhyphen"/>der of the Art, that I incline ſcarce at any rate to do ought that may tend to the expoſing, or vilifying there<g ref="char:EOLhyphen"/>of; and further, theſe Conſiderations (as I humbly con<g ref="char:EOLhyphen"/>ceive) ought to invite you alſo to give the like Teſtimo<g ref="char:EOLhyphen"/>ny of your peaceable Diſpoſition, and of your like ten<g ref="char:EOLhyphen"/>der affection to the Art, in reaſonably preventing, what may any further marr the Honour or Advance thereof.</p>
+            <p>If your return to this Letter, be any thing but Peace, and Accommodation, you may expect the World will be acquainted with it in Print,</p>
+            <div type="part">
+               <p>THe Clubs return to this, was in their old chat of re<g ref="char:EOLhyphen"/>proaches, ſome of them, eſpecially the <hi>Lame</hi> and the <hi>Maimed</hi> anſwered it in a new <hi>Cant</hi> to the Tune of <hi>Cud<g ref="char:EOLhyphen"/>gelling,</hi> and <hi>Ear-cropping.</hi> O <hi>brave</hi> Doctors, who, having long ſince Banquerouted your Learning and Reaſon, took firſt refuge in <hi>Ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ter</hi> and <hi>Ribauldrie,</hi> and now being bang'd out of that, has no ſhelter left you, but to thuart nature ſo far, as to give your ſelves out for <hi>Hectors!</hi>
+               </p>
+               <pb n="9" facs="tcp:175443:7"/>
+               <p>And ſo Candid Reader, I crave pardon for detaining you ſo long in prefacing to <hi>Philanders</hi> Letter, which will more ſully give you the accompt of the whole mat<g ref="char:EOLhyphen"/>ter, and ſo bids you adieu.</p>
+               <closer>
+                  <signed>Your humble Servant, Philarchus.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="notice">
+            <head>ADVERTISEMENT.</head>
+            <p>LEarned and Witty <hi>Club,</hi> when I reflect, how Inge<g ref="char:EOLhyphen"/>nuouſly you deciphered <hi>Philander,</hi> juſt as a <hi>Mounti<g ref="char:EOLhyphen"/>bank</hi>'s Fool would have done, taking it for <hi>Fool Andro.</hi> I would earneſtly intreat, that ye do not Sore again ſo high, with an <hi>Icarian</hi> flight in Learning, and take this <hi>Philarchus</hi> for your Fool <hi>Arche,</hi> that meer <hi>Pageant</hi> of Learning, who being on of the Authors of that Learned <hi>Dialogue,</hi> written againſt Dr. <hi>Broun,</hi> thought to eſcape his Reward, becauſe he was ſheltered in a Chair; yet the <hi>Impudent Pretender Declaiming,</hi> or rather <hi>Belſching</hi> from the <hi>Chair</hi> his <hi>Foppry</hi> and <hi>Impertinency,</hi> has ſo well chaſ<g ref="char:EOLhyphen"/>tized himſelf, that no body needs to be further ſolicitous to take any other Correction of him, than by Publiſhing to the World his <hi>Inaugural Oration,</hi> with ſome <hi>Natural</hi> and <hi>Pertinent</hi> remarks thereupon; <hi>&amp;c.</hi>
+            </p>
+            <p>Unto which, if there be added, a full <hi>plan</hi> and <hi>Hiſtory</hi> of the Means and Methods of his, moſt deſerved Promo<g ref="char:EOLhyphen"/>tion; as thereby it will be clear, that the Air of our <hi>Climat</hi> is moſt apt to blow up <hi>Bubles,</hi> letting more ſolid things fall to the Bottom: So ſuch a <hi>Hiſtory</hi> as this will not be little delghtful to the <hi>Curious,</hi> to underſtand
+<pb n="10" facs="tcp:175443:8"/> plainly all theſe <hi>petty Arts,</hi> and <hi>ſham Tricks,</hi> by which this a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of Learning managed his <hi>Intrigue</hi> of <hi>applauſe Catching,</hi> and <hi>fame forſtalling.</hi>
+            </p>
+            <p>
+               <hi>If Hogen Mogen</hi> finding the pleaſant Effects of this <hi>Pretty Art,</hi> complain that they are gulled, and that for <hi>Juno</hi> they have embraced a cloud. I muſt crave <hi>Myn<g ref="char:EOLhyphen"/>heer</hi> pardon, if <hi>I</hi> tell him, that he muſt not think him<g ref="char:EOLhyphen"/>ſelf abuſed<g ref="char:punc">▪</g> by theſe who gave the Man a brave recom<g ref="char:EOLhyphen"/>menoation, for the <hi>Scots Proverb,</hi> and <hi>Practiſe</hi> is, that theſe who are ill of their <hi>Harbour,</hi> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e beſt of there away Ken; and indeed the eaſieſt way to be eaſily rid of a<g ref="char:EOLhyphen"/>troubleſome <hi>Gueſt</hi> is always to <hi>ruſe</hi> him.</p>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>A ſecond Letter Written by</hi> Phil<g ref="char:EOLhyphen"/>ander, <hi>to his Freind in the Coun<g ref="char:EOLhyphen"/>try</hi> Philomathes <hi>in Vindication of</hi> Dr. Brown.</head>
+            <opener>
+               <salute>Dear <hi>Philomathes.</hi>
+               </salute>
+            </opener>
+            <p>I Was not a little ſurprized as well as your ſelf, when my former Letter written to you, and Publiſhed to the World in Vindication of Dr. <hi>Broun</hi>'s Book, was An<g ref="char:EOLhyphen"/>ſwered by his Oppoſers, to whom it was not Directed: Ani<g ref="char:EOLhyphen"/>madverſions, or Obſervations thereon, the <hi>Black</hi> Dr. might have Publiſhed, but his giving an Anſwer of a Letter not directed to him, ſeemed a nonſenſical piece of buſineſs, I ruminated long to ſee if this Bull of the <hi>Black Drs.</hi> could be any way excuſed, at laſt I think I hit it, for le<g ref="char:EOLhyphen"/>ing how Learnedly Dr. <hi>Black</hi> had deciphered <hi>Philander,</hi>
+               <pb n="11" facs="tcp:175443:8"/> making it <hi>Fool Andr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. I</hi> clearly underſtood, that the <hi>Black Dr.</hi> after the ſame manner, had deciphered your Name <hi>Philomathes,</hi> taking it for Fool <hi>Matthew</hi> one of their So<g ref="char:EOLhyphen"/>ciety: this ſurely has made them rather Ignorantly, than altogether Impertinently Anſwer it, tho by as great a miſtake, as if one ſhould take <hi>Dr. Black</hi> for a <hi>Candid Dr.</hi> or <hi>White</hi> for <hi>Black,</hi> there being as great a difference be<g ref="char:EOLhyphen"/>twixt <hi>Phiomathes</hi> and <hi>Fool Matthew,</hi> ſo, as the <hi>Clinking</hi> of the Bell makes the Fool think, does, the gingling of Words make theſe wiſe <hi>Drs.</hi> rave. And now <hi>Philomathes,</hi> it were in vain to tell you how Infamouſly theſe <hi>Drs.</hi> in their Scurrillous Libels, beſtow their Talent, and bewray their little Wit: every body that doth not, will fully ſhut his Eyes, muſt of neceſſity ſee every Line of theſe reproach<g ref="char:EOLhyphen"/>full Stories againſt Dr. <hi>Brown,</hi> drawn in the black Cha<g ref="char:EOLhyphen"/>racters of Envy and Malice: and ſurely, becauſe <hi>Dr. Brown</hi>'s Enemies could ſay little in the cauſe, and bring leſs a<g ref="char:EOLhyphen"/>gainſt his Ingenuity, and Sincerity, they endeavour to miſ-re<g ref="char:EOLhyphen"/>preſent his extrinſick Qualifications, his Diſcretion, his Hu<g ref="char:EOLhyphen"/>mour, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Carriage, as if by making him Ridiculous in any of theſe, they can but abate Mens Reverence to him, their Confidence in him will not long hold out: For as on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſayes bare honeſty, being lookt on as a Leafleſs Tree, no body will truſt himſelf to it's ſhelter: Thus <hi>Socrates</hi> was treated by his Enemies, when they could no other<g ref="char:EOLhyphen"/>ways ſuppreſs his Reputation, they hired <hi>Ariſtophanes</hi> the <hi>comick</hi> Poet, to Perſonat him <hi>in redicule</hi> on the Stage.</p>
+            <p>And indeed I think no wonder theſe Gentlemen, for all their Impudence, had never Confidence enough to owne to the World what they had done againſt Dr. <hi>Broun.</hi> all Crimes have had their Fauters and Abettors, but Lying, eſpecially reproachful Lying, is ſo much the Dregs and Refuſe of Wickedneſs, that none has yet had Chimiſtry enough to Sublime it unto Reputation, ſo as any body will
+<pb n="12" facs="tcp:175443:9"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enter to owne it: and among the ſeveral Aggravations, this Crime is capable of (beſides the cauſe a Man ſuffers reproach for) the putting of ſuch reproachful lies in Print, ſeems none of the leaſt: But let <hi>George Moſman</hi> look to that.</p>
+            <p>I muſt confeſs, we are got into a very Merry World, if Men will be ſo fooliſh, as to ſuffer themſelves at the ex<g ref="char:EOLhyphen"/>pence of their Health, the moſt valuable concern of Life, to be laught and lied too, out of ſo uſeful, and clear an Improvement to the Common Nature, as the Cure of Fe<g ref="char:EOLhyphen"/>vers. Dr, <hi>Broun</hi> has in his Schedule, given an <hi>Idea</hi> of: I am willing to believe, there are a great many ſtill, who have perſpicacity enough to ſee thorow ſuch ſort of Ad<g ref="char:EOLhyphen"/>dreſſes, So that theſe Merchants will lye under a neceſſity to deal with the more Ignorant Chapmen, and with them their Counterfeit Wairs will go beſt off.</p>
+            <p>But pray let us take a ſober view of what theſe Fopps, and Enemies to Mankind will be at: Here then, good <hi>Drs:</hi> Let us carefully weigh the matter, and lay in one <hi>Scale,</hi> the deareſt concern under Heaven, the Health and Life of Men. and their neareſt Relations, frequently overturned by th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe continual Fevers, the danger and precipitant Invaſion thereof; which by a ſudden Eruption and Devaſtation, in a trice overturn our Hopes and Comforts, do therefore make the loſs of Life more bitter: and which is yet very recent with many, your former and preſent unſuccesful<g ref="char:EOLhyphen"/>neſs in the Cure of theſe Fevers.</p>
+            <p>And in the other <hi>Scale,</hi> let us lay the undoubted Obli<g ref="char:EOLhyphen"/>gation<g ref="char:punc">▪</g> chargeable on the <hi>Adepts,</hi> and Sons of Art, to Ranſact and Muſter all the Supplies, Study, Induſtry and Obſervation can make up for the Reſiſtance of the ſudden Ravage and Diſſolution made by theſe Fevers: together with the great, conſtant and dayly Succeſs, which to the great Comfort of Men, and their Relations, is obſerved to follow this new Method of Curing Fevers.</p>
+            <pb n="13" facs="tcp:175443:9"/>
+            <p>Now, my very good reverſt Friends, to which of the ſide does the <hi>Ballance</hi> incline to with you, and ſince you either cloſe your Eyes from the wonderful Effects of this new Method, or diſſemble, what you underſtand of it, are you not then in love with theſe many Ruins, and Diſtreſſes theſe Fevers bring along with them, and con<g ref="char:EOLhyphen"/>tent to let your Blood freeze within you, in the midſt of ſuch extream heat, when upon every trivial occaſion, at other times, it's ready to break out in the ſtrangeſt Ebuli<g ref="char:EOLhyphen"/>tion: Is not this to prove your ſelves Fopps, your Art <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Trick, and Induce the World to cry out, you can do no<g ref="char:EOLhyphen"/>thing, when there is moſt ado with you: <hi>Good Doctors,</hi> who appear to the vulgar ſprightly Heroes in Medicine, I amal moſtina fright, when <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſider with all, what a <hi>rem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ra</hi> many ſuch dead weights as you, really is in the way of true Practical Improvement in Medicine, to the great hurt of Mankind, and the ſcandal of all faithful <hi>Phyſicians,</hi> you are in truth, the dead Flees that Corrupt all their Perfums: For ſhameimuſt honeſt Dr. <hi>Broun</hi> meet with ſuch diſhoneſt treatment from you, for his Charitable Endeavours, to deliver the World from the fetters of Prejudice<g ref="char:punc">▪</g> and Igno<g ref="char:EOLhyphen"/>rance, &amp; wherein no Man is touched or wronged; it's not his own things he ſeeks, it's the Intereſt of Humanity, in ſo noble a Diſcovery of a new and moſt ſuccesful method of Curing theſe formidable Fevers; So the mali<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e muſt be ſtrange and more than humane, that proſecuts him.</p>
+            <p>Since then <hi>Philom.</hi> as every body knows, this fearful havock of our Deareſt Concerns made by theſe Fevers, of<g ref="char:EOLhyphen"/>ten falls out, under the <hi>Preſidence</hi> and <hi>Government</hi> of the <hi>Phyſicians,</hi> and ſeeing their Truſt makes it nearly their con<g ref="char:EOLhyphen"/>cern, to enquire ſeriouſly, whether Negligence or Miſtaks may be Concuring to the Courſe of ſo ſudden and formi<g ref="char:EOLhyphen"/>dable a Devaſtation: and alſo, Seing we perceive Men are always with great difficulty, drawn from their former
+<pb n="14" facs="tcp:175443:10"/> 
+               <hi>Cuſtoms</hi> and <hi>Practices:</hi> and with all Ranks and Stations of Men, Improvements are hardly entertained and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbraced; but moſt of all, with thoſe whoſe Eſteem, and Reputati<g ref="char:EOLhyphen"/>on can be preſerved intire without their entertaining them, as in Medicine, I apprehend it's too eaſie to do.</p>
+            <p>Upon theſe Conſiderations <hi>Philomath,</hi> I am not only clearly Induced to entertain ſhrewd and harſh thoughts of thoſe that are offended at the Preliminaries of <hi>Dr. Broun</hi>'s Book; but I alſo think, he has made no Impertinent de<g ref="char:EOLhyphen"/>greſſion, but a very neceſſary Preliminary, and Preface to his Work, where he has made a <hi>Towr</hi> to Summond up the whole Force of that Obligation, lying on <hi>Phiſicians,</hi> to Dilligence and Improvement, to conjure down negli<g ref="char:EOLhyphen"/>gence, and to areaign all vulgar Errors and Miſtakes ca<g ref="char:EOLhyphen"/>pable to ſtiffle, or deprave Improvement in that Art, it be<g ref="char:EOLhyphen"/>ing indeed the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e that ſeem like Mountains, to ſtand in the way to Improvement; do they not then deſerve by ſe<g ref="char:EOLhyphen"/>rious Conſideration, to be Levelled and Removed.</p>
+            <p>Now <hi>Philom.</hi> Knowing you are a Curious Enquirer into the Cauſes of all the various <hi>Phenomena</hi> of the Civil, as well as the Natural World; and that the behaviour, and Nature of theſe <hi>Blacks,</hi> pretending to be <hi>Phyſicians,</hi> may appear very ſtrange, and un-accountable to your ſelf, as well as others, and put many in hazard to think, that all which Dr. <hi>Broun</hi> has offered in this matter, is nothing but D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſion, and Foppry: I judge it not Impertinent to of<g ref="char:EOLhyphen"/>fer you my un-byaſſed Sentiments, in Relation to a clear, and Rational Solution of theſe Mens Actions, and <hi>Pheno<g ref="char:EOLhyphen"/>mena;</hi> by giving a ſolid <hi>Hypotheſis</hi> of their Nature, where<g ref="char:EOLhyphen"/>by, I hope it will be plain, that the Dignity and Excel<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncy of an Improvement in Medicine, may not only be very conſiſtent with ſnarlings and reproaches thrown, thereupon by <hi>Intereſted</hi> and <hi>By-aſsed Phyſicians:</hi> but that all eminent Improvements are neceſſarily attended with
+<pb n="15" facs="tcp:175443:10"/> that <hi>fate:</hi> ſo <hi>Philom,</hi> I realy think the World is not a littl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> indebted to the Man, has the courage to make the venture to bring ſuch to ſee the Light. For it is no more Plain, than it is Lamentable, that after the Laborious Penetrat<g ref="char:EOLhyphen"/>ing of the Judicious, who raking the Bowels of Nature, has digged and refined any Improvement in the Cure of theſe Fevers, (perhaps of more value then all the Gold of the <hi>Indies</hi>) out of it's Natural Min and Oar, where it was hid and Inacceſſable by the Block and Slug<g ref="char:EOLhyphen"/>gard, yet before it can become acceptable, and of general uſe, it's put to encounter various Skirmiſies, with the ſe<g ref="char:EOLhyphen"/>veral Intereſts, Humors, yea <hi>Caprices</hi> of Men; and not on<g ref="char:EOLhyphen"/>ly every <hi>Dunce</hi> or <hi>Fop</hi> has an Itch to ſtain and fully that vertue he could never imitate, yea, ſcarce comprehend: yet he (as ſufficiently qualified to encounterfit the <hi>Phyſici<g ref="char:EOLhyphen"/>an</hi> with the vulgar) is in a great meaſure capable to diſ<g ref="char:EOLhyphen"/>grace it, but even theſe that ſeem more Poliſhe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, &amp; Refined, and have Engroſſed any Eſteem, finding a new Title of ap<g ref="char:EOLhyphen"/>plauſe in favours of the undertakers, neceſſarily follow ſuch undertakings, ſhrewdly ſuſpect it, as topping and veighing with their Reputation, to be at their Coaſt, and they Endangered thereby to have their merit Eclipſed: this raiſes ſuch a Torrent of Heat and Envy againſt it, and its advancrs; that they are often made to ſtagger under them: and where the thing is ſo Conſpicuou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that they dare not meddle with it; and alſo finding it would be dan<g ref="char:EOLhyphen"/>gerous and fatal to themſelves, to make a quarrel of a mans vertue; they can, by means of their Art, and Authority, by a deviliſh Chimiſtry, Extract and Pick one out of the moſt Innocent Deportment to b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpatter his Merit, and which will alſo ſerve them as a Cloak for their envy, and malice to the boot.</p>
+            <p>Thus men to ſave the borrowed Luſtre of their Skill, fully their Candor: which altho a ſtain little Conſpicuous
+<pb n="16" facs="tcp:175443:11"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s yet very dangerous; in <hi>Phyſicians</hi> for Ingenuity the comon ſpur to Induſtry, the Parent of Skill, being <hi>languid</hi> in them; it muſt only be by the favour of <hi>Artifice,</hi> and Popular Error, without any ſolid worth, that ſuch have thorow time (<hi>which vulgar opinion makes to ripen the moſt inſipid of them</hi>) ſcrambled up to any Eminency, and Enhaunced the Opinion of Experienced: But conſidering the falſe bot<g ref="char:EOLunhyphen"/>tomed Reputation of theſe <hi>Paraſits</hi> to fame, is like fairie Money, which is brought in a night, and carried away the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ixt: no wonder if vulgar humor<g ref="char:punc">▪</g> and applauſe that has ſet them on the Tottering Pinacle of unmerited eſteem do as eaſily, but far more juſtly<g ref="char:punc">▪</g> throw them down again. And indeed <hi>Philomath, I</hi> am tempted to tell you, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hink true worth, as it ſpares no Labour in acquiring, ſo it ſaves no Coaſt to welcome true Improvements: and is alwayes among the firſt that ſhakes hands with them. Whence it may be clear, that what ever <hi>benign aſpect</hi> ſuch Diſcoveries may carry to the World, yet if they bear in <hi>reverſe</hi> ought <hi>Malevolent</hi> to any Mans ill acquired Eſteem, or private Intereſt, a cold welcome is to good, nay a very hot one they muſt look for, from ſuch Men: A clear evi<g ref="char:EOLhyphen"/>dence (among any others) of this, was the Quarrels, Contentions, &amp; Skirmiſhings, that aroſe about that meerly Theoretical Improvement the circulation of the Blood, And if it fare ſo here, how will it go, if an uſeful and practical Improvement offer to ſet up the Head, and the Devils Game, as well as Mans be marred or theſe Traps, or Snares that Precipitate Men into the Kingdom of Dark<g ref="char:EOLhyphen"/>neſs, be in danger to be removed, by any Conſiderable Im<g ref="char:EOLhyphen"/>provement in the Cure of theſe Formidable Fevers: then well ſee, as Dr. <hi>Broun</hi> Intimats further in hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Preface to his Book: <q rend="inline">That the Serpentine Brood, which is ſtill big with Malice, and Envious of the good of Men, and and which was never more <hi>Dominant,</hi> than at this time,
+<pb n="17" facs="tcp:175443:11"/> will raſe all the Corners of the Infernal Pit, for Venom to beſpatter ſuch a Project, and its Advancers with.</q> And ſo the Intereſt both of Men and Devils being at the ſtake, and both being attack't by this Improvement in <hi>Medicine,</hi> no wonder (as the <hi>French</hi> King and <hi>Turk</hi> have done) That Men and Devils Confederat againſt their Common Enemie Practical Improvement in Medicine.</p>
+            <p>Now how far all this may be applyed to Dr. <hi>Broun</hi>'s oppoſers, any that will be at the pains to conſider both his and their Papers, may very eaſily Judge: and if the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eby, they clearly underſtand, that in advancing one of the moſt deſirable Concerns of Men, he is as pertinent and ſolid in Reaſoning, than they to depreſs it, turning quite from the Subject, are pregnant in vile <hi>Railling</hi> and <hi>Cavel<g ref="char:EOLhyphen"/>ling,</hi> they will not hover long to give their Sentence.</p>
+            <p>After my former Letter emitted, and Publiſhed in his Vindication, and in Anſwer to their Dialogue, and wherein the new Method was confirmed, by ſeveral Examples, it was thought Impertinency, was by ſound Reaſoning, ſo daſhed out of Countenance, that it durſt never appear any more on that Errand.</p>
+            <p>But<g ref="char:punc">▪</g> 
+               <hi>2d.</hi> Eſſay, a great deal more Impertinent, and In<g ref="char:EOLhyphen"/>famous than the former, made all Spectators underſtand, that no Humane Reaſon can tame <hi>Deviliſh Inſolency,</hi> and that its as hard to check their ſcolding humors, as it was to Crub that br<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zen <hi>Zantipes</hi> Vein, whoſe unruly Member, after her Husband had ſeveral wayes (but all in vain) en<g ref="char:EOLhyphen"/>deavoured to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame (ſhe ſtill calling him <hi>Louſie Rogue, Louſie Cuckold</hi>) at laſt he tryed her with ducking, but ſhe put<g ref="char:EOLhyphen"/>ting up both her hands, above the Water, and joyning the Nails of her Thumbs in a <hi>Crack-houſe</hi> poſture, ſhewed how little ſhe was dantoned. Even ſo theſe Men, when they are plunged over Head and E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, in the deriſion of all ſober Men, ſtill attempt to give the moſt ridiculous ven<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="18" facs="tcp:175443:12"/> to their Impertinent cha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t. And withall the moſt favour<g ref="char:EOLhyphen"/>able Conſtruction can be put upon their behavior ſeems this: Theſe <hi>Blacks</hi> being ſuch a waſpiſh venomous Kind o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Creatures, that when they are <hi>Irritate,</hi> (which is al<g ref="char:EOLhyphen"/>wayes upon the appearance of any good to the World) the Venome <hi>Ferments</hi> and <hi>Works</hi> ſo within their Breaſts, that it's ready to burſt them, unleſs it break out with a <hi>Ratle</hi> at <hi>Railling Row:</hi> And notwithſtanding <hi>Philomathes</hi> of all the venemous Eructations, and Floods of Viper<g ref="char:EOLhyphen"/>ſpaun, diſgorged againſt Dr. <hi>Brown,</hi> by one of theſe <hi>Blacks,</hi> a bitter Viper: I heard ſay (which I think a very ſtrange <hi>Phinomenon,</hi> that the <hi>Paroxiſms</hi> and fits uſe to be ſo vio<g ref="char:EOLhyphen"/>lent in him ſtill, that he is forced to be keeped elaſped in Iron Bands, for without theſe, his <hi>Fits,</hi> like <hi>Gunpou<g ref="char:EOLhyphen"/>der,</hi> would make ſuch a ſorrowful parting betwean poor Back and Breaſt, that the old ſitten on Friends would ne<g ref="char:EOLhyphen"/>ver meet again, <hi>In ſpeculis contemplare teipſum, Sin de<g ref="char:EOLhyphen"/>formis id morum penſato pulchritudine: audito multa, &amp; loquere pauca.</hi>
+            </p>
+            <p>Miſtake me not <hi>Philomath,</hi> as if <hi>I</hi> intended, tranſgreſ<g ref="char:EOLhyphen"/>ſing all humanity, to inſult over any Mans Perſonal De<g ref="char:EOLhyphen"/>fects; no no, but being to ſolve the <hi>Phenomena</hi> of his Wicked Actions, I am neceſſarily led to his Curſed Nature, which having undoubtedly depraved his Shape and Body that lodges it (a diſcreet Gueſt indeed) no wonder it ſpares nothing it falls in hands with; and inde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d I am tempted to take the Liberty to tell you <hi>Philomath,</hi> as bodi<g ref="char:EOLhyphen"/>ly defects in my Opinion, lay a double Obligation on the Subject to Diſcretion and Vertue, and the vertue ſuch, are endued with, not only gives a Proportionable Supply of their other Defects; but is alſo it ſelf more Conſpicuous, and renders the Perſon more Amiable, ſo wicked <hi>Malice,</hi> making them juſtly more <hi>Odious</hi> and <hi>Abominable;</hi> makes Reaſonably all their outward defects, more Remarkable,
+<pb n="19" facs="tcp:175443:12"/> and that Common Saying, <hi>Cavendum ab his quos Deus &amp; natura notarunt,</hi> tho it may Juſtly have ſometimes its ex<g ref="char:EOLhyphen"/>ceptions, yet I think without breach of Charity, I may be Confident this Subject is none of them; for that Viper, without any Provocation, but his Conſcience of honeſt Dr. <hi>Brown</hi>'s Ingenuity and Zeal for the Publick good (Which is <hi>I</hi> confeſs enough of Provocation to a malicious Brat) has by Printing, and all other wayes, imployed the utmoſt efforts of his Deviliſh Malice againſt him; as may be ſeen thorow all the Clubs Papers, whereof the bit<g ref="char:EOLhyphen"/>tereſt and moſt invective Paſſages are the <hi>Hiſſings</hi> of this <hi>Viper,</hi> butekpecially may be ſeen in the account he gives of my <hi>Lord Crichtouns</hi> Caſe, which like a venomous Serpent, in the pride of his Bunches, and Majeſty of his Scales ſet<g ref="char:EOLhyphen"/>ting up his briſles, he fronts with this Malicious and Ve<g ref="char:EOLhyphen"/>nomous <hi>Hiſs.</hi> (the baſeneſs of <hi>Dolphintouns</hi> temper) as if he intended the effect of his malice ſhould not die with Dr. <hi>Brown</hi> himſelf, but ſhould deſcend to his Heirs, who appearantly may have the Deſignation of <hi>Dolphinton</hi> after him: But as Dr. <hi>Brown</hi> may juſtly glory in the Cauſe he ſuffers for, ſo may he do in the Inſtrument he ſuffers by; and he will be highly unjuſt both to his Cauſe and to Man<g ref="char:EOLhyphen"/>kind, if he do not acquaint the World, that their Calum<g ref="char:EOLhyphen"/>nies may have the leſs Impreſſion, what kind of Crea<g ref="char:EOLhyphen"/>tures (Malice being indeed t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e higheſt degree of Baſeneſs) the principal Adverſaries of his Cauſe only are.</p>
+            <p>But conſidering, that the Devil rages moſt before he be caſt out; this gives equally a preſage of Dr. <hi>Brown</hi>'s ſuc<g ref="char:EOLhyphen"/>ceſs, and makes the Efforts of his Inſtruments no wayes ſtrange, or unaccountable. And in ſum Dr. <hi>Brown</hi> needs not grudge his Enemies ſhould Commence the moſtabſolute Maſters of <hi>Vile Railing,</hi> and <hi>Diſ-ingenuous Cavelling,</hi> while he carries it in ſolid Reaſoning, and ſafe Curing Fe<g ref="char:EOLhyphen"/>vers, which hitherto have been ſo diſmal to Mankind.
+<pb n="20" facs="tcp:175443:13"/> But he may indeed Triumph, that all theſe <hi>Reproaches</hi> and <hi>Impertinencies</hi> ear ſo clearly in reverſe his hardy attempt for the publick good, which theſe <hi>Black Doctors</hi> conſtruct is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, firſt to <hi>Devils,</hi> and next to there Pettie, and private Intereſt. For any other grounds of their Calum<g ref="char:EOLhyphen"/>nio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Libells, he defies them to make appear,</p>
+            <p>Moreover to ſhow how ſenſible he is of the great bene<g ref="char:EOLhyphen"/>fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Enemies have done him, by their Printed and ver<g ref="char:EOLhyphen"/>bal Calumnies, whoſe p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rverſneſs, adding difficulty to his Enterprizes, raiſe the Honour of his Succeſs: and whoſe Ignorance Characterizing their Authors his Oppoſers, has for the moſt part enclined the Judicious to his ſide: this favour, tho done far beyond their Intenſion, he has moſt gratefully remunerate, with another not a whit leſs be<g ref="char:EOLhyphen"/>neficial to them, but far more meritorious, as being deſign<g ref="char:EOLhyphen"/>ed and Intentional, and that is, albeit they have named him with all the Names, and Nick-names they pleaſed, yet he has ſtill forborn to Name any of them, ſome thinks it's be<g ref="char:EOLhyphen"/>cauſe he is aſhamed of ſuch antagoniſts, but I rather think it's out of Pity; leaſt there ſhould be a ſtanding memori<g ref="char:EOLhyphen"/>al of their <hi>Rediculous Impertinencies</hi> and <hi>Folly,</hi> which would ſo conſpicuouſly Blunder them, when their Embrac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing both his <hi>Theorie</hi> and <hi>Practice,</hi> becomes unavoidable, (as in all probability it ſhortly will) that it might really <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndanger them to hang themſelves.</p>
+            <p>But there is one of them that Iam truly ſorry for, becauſe he ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had the hard fate to prove ſo Publick a <hi>Tool</hi> to ex<g ref="char:EOLhyphen"/>ecute the Malicious Contrivances of the more <hi>Politick</hi> pates of that <hi>Crew,</hi> that a Honourable retreat to him, is ſcarce Poſſible: for that Man not being able to Con<g ref="char:EOLhyphen"/>tribute any of the leaſt pittance to that ſtock of ſorry will their <hi>Pamphlets</hi> are ſtuffed with, was content for his part to Contribute his Pains to drudge at the Preſs for the reſt: and alſo to do the Office, of the Coal-ſte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ller Bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, in
+<pb n="21" facs="tcp:175443:13"/> diſperſing their Malicious Papers: Alace, the <hi>Club</hi> has done with that <hi>poor ſoul,</hi> as the willie <hi>Pug</hi> does with the <hi>Cat,</hi> with whole Feet he ſcapes his <hi>Cheſnuts</hi> out of the Fire (and I believe the <hi>Monkey</hi> was handling the <hi>Cat</hi> of <hi>Sm<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>holm,</hi> ſo when ſhe ſpake wonders) and to Cool his burnt <hi>Paves,</hi> the Good-man of the <hi>Club,</hi> who had never any great Kindneſs for him before, (when he thought it not worth his pains to go himſelf, being in the midſt of the Storm) ſent the <hi>Poor Singed Doctor</hi> a highland Journey for him, where he would get Snow-Water, but a <hi>Green Burn,</hi> like a <hi>Green Wound</hi> is half whole, behold the end, and that the <hi>Titling</hi> was not ſent along with the <hi>Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k,</hi> came from the Good<g ref="char:EOLhyphen"/>man's tender care of the poor <hi>Titling,</hi> who would have cer<g ref="char:EOLhyphen"/>tainly been loſt in a wreath of Snow, if he had gone.</p>
+            <p>There is another effect their <hi>Pamphlets</hi> has had, which is very pleaſant, and it's this: The <hi>Apothecaries</hi> finding the <hi>Club</hi> had contrived their Papers ſo abominably nau<g ref="char:EOLhyphen"/>ſeous, that they would eaſily turn many tender Stomachs begun to ſuſpect the <hi>Club</hi> had a deſign againſt their Trade, and that they might perhaps ſerve their Patients with Vo<g ref="char:EOLhyphen"/>mitors, and Purges of ſuch ſtuff, giving them ſo many Leaves out of one of their <hi>Pamphlets</hi> for a Doſe, according to their Conſtitutions and Deſeaſes. And this Jealouſie was ſo warm among the <hi>Apothecaries Boyes,</hi> that it had almoſt raiſed them in a Tumult to have <hi>Rabled</hi> the <hi>Club.</hi>
+            </p>
+            <p>As on the one hand, the <hi>Black Drs. Scurilous Pamphlets does,</hi> in the Eyes of all Judicious Men, evince them the moſt fooliſh and malicious of all Men, ſo on the other other hand, when they come to any thing that's ſerious, and offers to reach a hit at Dr. <hi>Brown</hi>'s new <hi>Theory</hi> or <hi>Practice,</hi> they diſcribe themſelves the moſt Ignorant in the World: and therefore their laſt Eſſay was look't on as worthy of no other regard but Scorn and Contempt, yet becauſe the uſurped and fals bottomed <hi>Authority</hi> of a great
+<pb n="22" facs="tcp:175443:14"/> many <hi>Senior Dunces,</hi> of that <hi>gang;</hi> whoſe Credit lyes undoubtedly in Pand on this Plea, does amuſe the Igno<g ref="char:EOLhyphen"/>ant vulgar, who, perhaps making the far greateſt part of the World deſerve not a little to be Conſidered and Satis<g ref="char:EOLhyphen"/>fied, to the end that they may take better meaſures where to repoſe the truſt of ſo great Concerns: Therefore it was not thought altogether Improper, to give a further and clearer Repreſentation of that <hi>Theory,</hi> and the piti<g ref="char:EOLhyphen"/>ful Reaſons brought by the <hi>Learned Club</hi> againſt it.</p>
+            <p>How rediculous then are theſe Men by a few impertinent and incoherent Aſſertions, bearing in their Front only (it's certain) without any other proof, or evidence, and theſe ſo mingled with bitter invictives that are able to quite choak the moſt clear Reaſoning in the World. How ridiculous are they, I ſay, to attempt to overturn an <hi>Hypotheſis,</hi> not taken up <hi>gratis,</hi> but riveted and founded by a ſolid Reaſoning on the moſt part of the principal <hi>Phenomena</hi> occurring about the <hi>Aeconomie</hi> of Mans Bodie, and theſe ſo clearly ſolved thereby, and made ſo nea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly to quadrat therewith, as Dr. <hi>Brown's Theory</hi> of Fevers in his <hi>Schedule,</hi> ſeems to have done; Indeed by their manner of Impugning it, they aſſure the World, that they never underſtood it; for any that will be at the pains to Conſider it cloſely (what's in Debate being every mans near concern) will find it an <hi>Hypotheſis</hi> that's clear<g ref="char:EOLhyphen"/>ly demonſtrat to include that <hi>Metaphyſical</hi> Conſideration, as being moſt ſuitable to the Perfection of the <hi>animal Aeco<g ref="char:EOLhyphen"/>nomie,</hi> and <hi>Mechaniſm;</hi> and as ſeeming exceedingly ſuit<g ref="char:EOLhyphen"/>able to the deſign of the <hi>Architeck,</hi> and an <hi>Hypotheſis,</hi> which has alſo its <hi>Parallel</hi> in other Actions of the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>co<g ref="char:EOLhyphen"/>nomie,</hi> ſuch as the contraction and delatation of the Pupil of the Eye, and in Actions from <hi>Irritation,</hi> commonly ſo cled.</p>
+            <pb n="23" facs="tcp:175443:14"/>
+            <p>An <hi>Hypotheſis</hi> that quadrats with the <hi>Compoſition</hi> of the <hi>Blood,</hi> which is made up of many little <hi>G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bules,</hi> whoſe <hi>Number, Bulk</hi> or <hi>Figure</hi> may eaſily be ſuppoſed to become vitiated.</p>
+            <p>
+               <hi>A Hypotheſis</hi> having the <hi>Concatnation</hi> of the <hi>Procatar<g ref="char:EOLhyphen"/>tick</hi> and <hi>external Cauſes</hi> of <hi>Fevers</hi> favouring it, ſuch all wayes being apt to produce viscoſity and groſneſs in the <hi>Blood</hi> and <hi>Humors.</hi>
+            </p>
+            <p>An <hi>Hypotheſis</hi> that's founded in the Conſequences of that great, tho <hi>Inſenſible Evacuation</hi> of <hi>Perſpiration</hi> l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſed, and in the <hi>Nature</hi> and <hi>Leſion</hi> of <hi>Digeſtion</hi> of the Stomach; alſo both the frequent Cauſes of <hi>Viſcoſity</hi> and <hi>Fevers.</hi>
+            </p>
+            <p>A <hi>Hypotheſis,</hi> by which are ſolved clearly the natural <hi>Penomena</hi> in <hi>Fevers,</hi> ſuch as <hi>Frequency</hi> of the <hi>Pulſie, Heat, Inquietneſs, Pains, Anxieties, delirium,</hi> and <hi>Spots.</hi> Where, alſo the <hi>Phenomena</hi> of helpers in Fevers ſtand clearly of its ſide, as firſt Blooding, and the various <hi>Phenomena</hi> occuring about it, <hi>ſolved conform thereto, and made to confirm it.</hi> As alſo that <hi>Magtſterial</hi> Remedy, of Purg<g ref="char:EOLhyphen"/>ing, Clearing and Confirming that <hi>Hypotheſis,</hi> with the uſe and benefit of the <hi>Paregorick,</hi> and <hi>quieting</hi> Medicine, <hi>Homologating</hi> the ſame.</p>
+            <p>Where alſo it is ſhewed how the Benefit from <hi>volatile,</hi> and fixed Salts, and <hi>teſtaceous Concrets,</hi> exceedingly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<g ref="char:EOLhyphen"/>vours this <hi>Hypotheſis,</hi> and alſo how the benefit of <hi>Cup<g ref="char:EOLhyphen"/>ings Leiches</hi> and <hi>Frictions</hi> confirm it. A <hi>Hypotheſis</hi> which has cleared the hurt of the <hi>meer Diaphoretique method in Fevers,</hi> and where many other <hi>Phenomena</hi> of <hi>Hurters</hi> are fully ſolved conform thereto.</p>
+            <p>Whoſoever then ſhall think that an <hi>Hypotheſis,</hi> more clearly founded than ever, I think any yet h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s been, in reference to that ſubject of Fevers, and which has never been Comprehended, or underſtood by them, far leſs Con<g ref="char:EOLhyphen"/>ſidered or Expended ſo, as to make them Capable to
+<pb n="24" facs="tcp:175443:15"/> Impung it) ſhould be overturned by the daſh of a few Impertinent I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſequential and Falſe Aſſertions, con<g ref="char:EOLhyphen"/>cluding with all nothing, againſt the <hi>Hypotheſis,</hi> they may as well think <hi>Arthurs Seat</hi> will be overturned bya few Mol-hills caſten up therein, by the poor blind <hi>Moles,</hi> and this I think, will fall in nobodies head, but theſe that are fully as Ignorant, blind and <hi>Blockiſh,</hi> as theſe black <hi>Doctors.</hi> And now <hi>Phil.</hi> civility obliges me to uſher in what I am now to take up your time with, with a craving Par<g ref="char:EOLhyphen"/>don, knowing you can beſtow your minuts better than on ſuch Traſh: for no better Epithet can I give what they have ſaid againſt Dr. <hi>Browns</hi> Theory, as you ſhall eaſily per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eive, by and by, and is mentioned in the <hi>Page</hi> 13. and 14 of their Anſwer.</p>
+            <p>
+               <hi>Firſt,</hi> They ſay <hi>That every Part that is Contracted has an Inate faculty to perform that Action which is done, by the Influx of the Animal Spirits into the Fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res.</hi> This will prove a direct Contradiction, an Action to depend on an <hi>Inate faculty</hi> of the Part, and yet to be done by the <hi>In<g ref="char:EOLhyphen"/>flux</hi> of the <hi>Animal Spirits,</hi> which are quite <hi>Extraneous</hi> thereto, and in a perpetual Flux, ſeems clearly repugnant, and als abſurd as to ſay, that a <hi>Miln-wheel</hi> hath an <hi>Inate Faculty</hi> to move about, which idon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e by the falling of the Water upon it.</p>
+            <p n="2">2. They ſay next, <hi>All Parts when delated do ſuffer ever, violence from the Humors, and what els they contain,</hi> does the Dilatation of the Brain, or Breaſt come from vio<g ref="char:EOLhyphen"/>lence I pray, of what, yea does the heart it ſelf ſuffer vio<g ref="char:EOLhyphen"/>lence from the Blood. Theſe Men are ſo Giddy themſelves that they labour to turn all the Moderat and Benigne Mo<g ref="char:EOLhyphen"/>tions in Nature making Life, into reeling, violent, and Preter-natural ones, they are ſo much in Love with Jar<g ref="char:EOLhyphen"/>ring, that they dream of nothing but Force and Diſcord.</p>
+            <p n="3">3. They ſay, <hi>That the ventri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les of the heart are of the
+<pb n="25" facs="tcp:175443:15"/> ſame ſubstance with the Inner coates of the Arteries and Veins</hi> (which is ſcarce ſence) <hi>and that they are ſenſible of Irritation, that the Dilatation of the Heart, the weight, the diſtention through e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erveſcence of the Blood, doth Ir<g ref="char:EOLhyphen"/>ritate it:</hi> To ſay the Truth, this Principal of Irritation, which they moſt fooliſhly make the Cauſe of the <hi>natural motion</hi> of the Heart, muſt have its riſe from that Irrita<g ref="char:EOLhyphen"/>tion raiſed in themſelves, upon the appearance of Truth and Light, whereby, like men that have the <hi>Yellow Jan<g ref="char:EOLhyphen"/>dice,</hi> who think all things yellow, they think every thing Ir<g ref="char:EOLhyphen"/>ritate, when they are ſo themſelves. And there is no doubt, if ye will ask them, ye will likewiſe find they fancy, that the Sun, Moon and Stars, and all other motions <hi>in the univerſe</hi> move from Irritation, yea, <hi>bark</hi> and <hi>Irr</hi> too when their <hi>Chimerical Hypotheſis</hi> is Impugned, and that the <hi>Harmony</hi> of the <hi>Spheres</hi> muſt turn <hi>Jargon</hi> as well as the Heart for Company:</p>
+            <p>Now how Rediculous is this to any Perſon, but a little ac<g ref="char:EOLhyphen"/>quainted with <hi>Speculation,</hi> it being plain that the <hi>Contraction</hi> of the <hi>Muſcles,</hi> is the more natural of the two Motions: For the Reſolution of the opoſite <hi>Muſcle</hi> is ſtill followed with the Contraction of the other, and the Heart being a <hi>Muſcle,</hi> the <hi>Contraction</hi> thereof, rather than the <hi>Dilata<g ref="char:EOLhyphen"/>tion</hi> is a Natural Motion, and therefore does depend on no <hi>Irritation,</hi> but is the perpetual Law of the <hi>Aeconomy</hi> ſub<g ref="char:EOLhyphen"/>ſervient to the great end of Diſtribution of the nouriſh<g ref="char:EOLhyphen"/>ment to the whole: and is no more from <hi>Irritation</hi> than the like Conveyance of the Nutrition in <hi>Vegetables</hi> is. Would it not be brave <hi>Philoſophy</hi> to ſay, the Sap goes from the Root of the Plant to the Branches by <hi>Irritation.</hi>
+            </p>
+            <p>And further the quanrity of Blood ſquized into the Heart, ſuppoſe a <hi>dram</hi> is as far from Irritating it, as a conveni<g ref="char:EOLhyphen"/>ent Portion of Meat received into the <hi>Stomack,</hi> which is not ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t out till after <hi>Digeſtion,</hi> but then by no Irritation.</p>
+            <pb n="26" facs="tcp:175443:16"/>
+            <p>As alſo the <hi>Efferveſcence</hi> of the Blood either in a Natu<g ref="char:EOLhyphen"/>ral or preter-natural ſtate is a ſtale Error, reaſonably Exploded by Dr. <hi>Brown,</hi> according to the beſtnew Authors, as <hi>Blancard, Bohn, Brounerus, Charleton.</hi> And <hi>Eſſer<g ref="char:EOLhyphen"/>vecence</hi> being an <hi>Inteſtine Commotion</hi> of the minute Parts of Bodies, which moſt frequently, happens by <hi>Hetero<g ref="char:EOLhyphen"/>geneous mixtures.</hi> It can never be reaſonably ſaid to be, but where the Senſes diſcover it: pray with which of the Senſes did e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er theſe acute Drs. diſcover the ſame in the Blood: if all the World muſt believe againſt their Sences with theſe ſubtile <hi>Doctors,</hi> pray let them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſher in <hi>Tranſubſtantiation</hi> next, for they have broken the great But that kept it out.</p>
+            <p>
+               <hi>4ly,</hi> They ſay, <hi>This Irritation makes the Heart con<g ref="char:EOLhyphen"/>tract it ſelf, without reſpect to a final Cauſe.</hi> This is a clear Repugnancy for all <hi>Irritations</hi> in the Parts, when they are, are <hi>Preter-natural</hi> Motions, from <hi>Preter-natural</hi> Cauſes, and are raiſed to rid the Partes offended of the <hi>Irritating</hi> Marter, and here Nature may be ſaid not very Improperly to Act for an end, yea, and if ſuch an <hi>Irritation,</hi> as this were Competent to the Heart, in its Natural Mo<g ref="char:EOLhyphen"/>tion, it clearly implayes the like acting for an end, the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne end quite diſtinct from that Implyed in Dr. <hi>Brown's Vin<g ref="char:EOLhyphen"/>dicatorie ſchedule:</hi> for indeed their <hi>Hypotheſis</hi> obliges the Heart to throw out the Blood to be rid of it, as a <hi>Griev<g ref="char:EOLhyphen"/>ance,</hi> which is no ſooner done, than like <hi>Syſiphus</hi> Labour maliciou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Nature ſends in another <hi>Daſh</hi> or <hi>Squirt</hi> to vex it, and this being perpetua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> puts the Heart in a Continual <hi>Chaff</hi> at the poor <hi>Blood,</hi> which comes no ſooner into the <hi>Heart,</hi> but as a troubleſome <hi>Gueſt,</hi> is immediatly thrown out into the <hi>Arteries, Irritating</hi> them likewiſe, which pre<g ref="char:EOLhyphen"/>ſently ſends it a packing into the <hi>Veins,</hi> which having als little Kindneſs for it are at <hi>Continual</hi> toil to ſend it back again to the <hi>Heart,</hi> Where it gets als little reſt; One would
+<pb n="27" facs="tcp:175443:16"/> think the <hi>poor Blood</hi> is followed with <hi>Hue</hi> and <hi>Cry,</hi> and that Nature is at a <hi>Fox hunting</hi> with it from <hi>Hill</hi> to <hi>Dail, back</hi> and <hi>forward,</hi> and at Death the <hi>Blood,</hi> having loſt its <hi>Legs,</hi> is Catched: and ſo the <hi>Game</hi> ends.</p>
+            <q>Riſum teneatis amici.</q>
+            <p>But to be ſerious about their <hi>Irritation</hi> and <hi>Vi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lnce,</hi> there two principles of <hi>Natural</hi> Motion, <hi>I</hi> pray you <hi>Wit<g ref="char:EOLhyphen"/>ty Club,</hi> what violents the Heart to <hi>Dilatation</hi> and <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri<g ref="char:EOLhyphen"/>tats</hi> it to <hi>Contraction,</hi> when it beats, being out of the Body of ſome <hi>Animals,</hi> without any Blood, coming in, or going out. This one Inſtance, if they had read Dr. <hi>Brown</hi>'s Book with any more Attention than the Parats ſpeaks Words, would never have ſuffered them to ſlipt ſo fouly. There offering to Anſwer the Book being an Aſſir<g ref="char:EOLhyphen"/>mation that they have read it, I will not offer to Contradict it, as being loath to call them both Fools and Liars, but one of them they muſt ſurely be.</p>
+            <p>Next they ſay, <hi>That the Pulſe that ſtrickes the Finger, is nothing but the Dilatation of the Arteries, occaſioned by the Contraction of the heart</hi> which is granted, <hi>Then they add, for</hi> Dr. Brown <hi>to ſay, that in a Fever, the Pulſes are more frequent, and yet to ſay the Circuit Mo<g ref="char:EOLhyphen"/>tion of the Blood is more ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w is great non-ſenſe.</hi> O brutiſh Ignorance, for firſt, this laſt Aſſertion is no wayes conſequen<g ref="char:EOLhyphen"/>tiall to the former, tho they bring it in Conſequence there<g ref="char:EOLhyphen"/>of; and next, any that conſiders the matter will find, the laſt Aſſertion a plain falſhood for to ſay in a F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the Circuit Motions of the Blood is m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re ſlow, and yet the Pulſe more frequent, is al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good Senſe, as to ſay, that the <hi>ſtroakes</hi> of a <hi>Pump</hi> may be doubled, and yet the Water come out more ſlowly than at other times it does by ſingle <hi>ſtroaks.</hi>
+            </p>
+            <p>And this <hi>Phenomenon</hi> in the Pump is obvious to the Senſes, with its Cauſe, for if either the Liquor <hi>Pumpe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> be
+<pb n="28" facs="tcp:175443:17"/> more <hi>viſcuous,</hi> or if the <hi>Top-hole</hi> be not clear, the fre<g ref="char:EOLhyphen"/>quent agitation of the <hi>Pump</hi> will pour out leſs Liquor than the moderat working thereof, when the Liquor is ſuffici<g ref="char:EOLhyphen"/>ently tenuious and thin, and the Top-hole clear. As alſo the ſhort and thick ſtroaks of a <hi>Pump</hi> pours out leſs Wat<g ref="char:EOLhyphen"/>er then long and rare ſtroaks do; even ſo the Pulſe of the Heart and Arteries, altho more than uſual frequent, may convey leſs Blood into the Veins, when the Blood it ſelf is more groſs, or the Paſſages betwixt them obſtructed, or not ſufficiently Patent: then a leſſer frequency of the Pulſe does, when the Blood, or Paſſages are not under theſe Faults. And it's clear that the <hi>Pulſe</hi> is leſs frequent in health, becauſe, after the <hi>Arteries</hi> by their Dilatation have beat the touch they are <hi>Contracted</hi> very near their Centre, and do expel into the Veins almoſt all the Contained Blood, ſo, in the ſubſequent <hi>Dilatation,</hi> as moving more ſpace, <hi>viz.</hi> From the <hi>Centre</hi> to the <hi>Circum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erence,</hi> they moſt of neceſſity take more time to Dilate, and Conſequently ſeldomer beat the touch, than in the Caſe where the Blood is with difficulty admitted from the <hi>Arteries,</hi> into the <hi>Veins,</hi> becauſe then they Contract Leſs, much of the Contained Blood remaining, hinders their Coats from com<g ref="char:EOLhyphen"/>ing ſo near their Centre, as in the former Caſe, and ſo their Terms or Bounds of Contraction and Dilatation be<g ref="char:EOLhyphen"/>ing near, they are moved from the Bound of their Contrac<g ref="char:EOLhyphen"/>tion, unto the bound of their <hi>Dilatation,</hi> &amp; ſtrick the Touch ſooner, and in leſs time, &amp; ſo the ſpace betwixt every Pulſe is Commenſurat by, and proportionat to the greater or leſser Contraction, a great <hi>Contraction</hi> making ſtill a rare <hi>Pulſe,</hi> and a leſſer, a frequent one: And a clear reſem<g ref="char:EOLhyphen"/>blance of this is ſeen in <hi>Reſpiration,</hi> which in the Natural mode is more ſlow, and more Aire received into the Lungs, and more expelled at every turn of Reſpiration, and then the Breaſt alſo Dilated and Contracted more, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n in fre<g ref="char:EOLhyphen"/>quent
+<pb n="29" facs="tcp:175443:17"/> and ſhort <hi>Reſpiration,</hi> where leſs Air is received, and leſs expelled at every turn, and the Breaſt alſo leſs Di<g ref="char:EOLhyphen"/>lated and Cnntracted: much like the former <hi>Phenomenon,</hi> in the <hi>Pump,</hi> where ſhort &amp; thick ſtrokes poureth out leſs Wa<g ref="char:EOLhyphen"/>ter, than long and rare ones do. And in the Motion of the Blood, the <hi>Heart</hi> furniſhes the quantity to the <hi>Ar<g ref="char:EOLhyphen"/>teries,</hi> in proportion only, as the <hi>Arteries</hi> are Emptied into the Veins, which in the Natural State, when the Circuit Motion is perfotmed <hi>Vegetly,</hi> may be a <hi>Dram</hi> or more, but when that Motion is <hi>Torpid</hi> and <hi>Lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tering,</hi> and the Blood with difficulty paſſes from the <hi>Arteries</hi> into the <hi>Veins,</hi> the Heart at every <hi>Pulſe</hi> conveyes ſo much Blood into the <hi>Arteries</hi> only, as they by emptying themſelves in<g ref="char:EOLhyphen"/>to the Veins have made room for, which may ſometimes be very little; for in <hi>Agonizing</hi> or <hi>Expiring</hi> Perſons, where the <hi>Pulſe</hi> beats the Touch with the greateſt frequency imaginable, it's becauſe the <hi>Contraction</hi> is ſo little and <hi>con<g ref="char:EOLhyphen"/>ſequently</hi> the blood ſquized out of the <hi>Arteries,</hi> ſo very little, that the <hi>Dilatation</hi> is again immediately felt on the Touch: and this is ſo frequent, that it is rather called a <hi>Tremulous</hi> Motion of the <hi>Arteries,</hi> than a diſtinct <hi>Pulſe</hi> conſiſting of ſenſible <hi>Contraction</hi> and <hi>Dilatation,</hi> But ac<g ref="char:EOLhyphen"/>cording to the <hi>Hypotheſis</hi> of the <hi>Grand Club,</hi> the Blood ſhould then <hi>Circulat</hi> more <hi>rapidly,</hi> than which there can be no thing invented more <hi>Ridiculous.</hi>
+            </p>
+            <p>In Conſequence of all, by the leave of that <hi>Learned Crew</hi> of <hi>Ignorant Black Doctors,</hi> it's very good Senſe, and Reaſon both to ſay<g ref="char:punc">▪</g> that the frequenter the Pulſe beats, the Circuit Motion of the Blood may not only be more ſlow, but alſo, by the multitude of the <hi>Phenomena</hi> before men<g ref="char:EOLhyphen"/>tioned, ſolved by Dr. <hi>Brown,</hi> confirming this <hi>Hypotheſis,</hi> is proven actually to be more ſlow<g ref="char:punc">▪</g> And alſo by the ſame Leave, it may not be impertinent to alledge, ſince Nature does not accelerat Motion in Vain, That, that <hi>Frequency,</hi>
+               <pb n="30" facs="tcp:175443:18"/> beſide what is illuſtrat before, is excited alſo, to overcome the ſlowneſs and reſiſtance betwixt the <hi>Arteries</hi> and <hi>Veins,</hi> as <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> at more length held forth by Dr <hi>Brown</hi> in <hi>his Sch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dule.</hi> And how the <hi>Progreſs</hi> and <hi>Circulation</hi> of the blood is made thorow all he <hi>Meanders</hi> and <hi>Narrow windings,</hi> be<g ref="char:EOLhyphen"/>twixt the <hi>Arteries</hi> and <hi>Veins,</hi> and that in ſo ſhort a time as Nature requires it in the <hi>Natural State</hi> to <hi>Circle</hi> about (which according to Dr. <hi>Lower,</hi> is leſs than the 6th part of an hour) is very wonderful and <hi>difficult</hi> to conceive; and without very much <hi>Elevating</hi> and Abſtracting our thoughts we can ſcarce have any Satisfaction of it: and therfore the Circulation of the blood was oppoſed by many, becauſe they thought it impoſſible; but to ſupperadd to that <hi>ſtu<g ref="char:EOLhyphen"/>penduous</hi> Motion, ſo inconceivable a <hi>Propertie,</hi> or <hi>accident,</hi> as an <hi>Augmentation</hi> or <hi>Increaſe,</hi> the mind muſt ſuffer ſtrange <hi>Torture</hi> and <hi>Rack,</hi> to Comprehend it: but how eaſily may that Motion be conceived to be <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>miniſhed.</p>
+            <p>It was indeed the Inconceivableneſs of the <hi>Rapidity</hi> of the Suns motion by the common <hi>Hypotheſis,</hi> which made <hi>Copernicus</hi> fix the Sun and ſend the <hi>Earth</hi> a <hi>Rambling</hi> about it: By which all the <hi>Phenomena</hi> were als-wel ſolved, and a more comprehenſible and ſatisfieing <hi>Notion</hi> of the Motion eſtabliſhed to the boot: But theſe blacks make ſo much Noiſe with their Bable, of Rapidity, Violence, and <hi>Irritation,</hi> that cert<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inly they will fright <hi>Phaetions</hi> Horſes whom <hi>Copernicus</hi> had quietly ſtabled up, and ſend them a <hi>packing</hi> again about the World, and then they muſt fetch <hi>Vul<g ref="char:EOLhyphen"/>can</hi> to nail down the Earth to its fixed Centure again, for if the <hi>Sun</hi> and <hi>Earth</hi> come to ſhoulder others in their <hi>Orbs,</hi> they may give a <hi>terrible Jolt.</hi> And if the <hi>Rapidity</hi> of the <hi>Suns</hi> motion be inconceiveable ſtill let the Sun look to that, as well as the Blood.</p>
+            <p>And with all ſuch a <hi>Fals Notion</hi> as this of the <hi>Circula<g ref="char:EOLhyphen"/>tion</hi> of the <hi>Blood</hi> augmented does not ſtay heer as being a
+<pb n="31" facs="tcp:175443:18"/> meer <hi>Theoretical Error</hi> and of no further purport: But <hi>Alace</hi> it puts the <hi>Artieſt</hi> in his practice upon the moſt dangerous meaſures, and <hi>Precipitates</hi> him into the moſt Fatal Errors, as impelling him to put <hi>Clogs</hi> and <hi>Barrs</hi> on that motion, wherein conſiſts Life, often already too much <hi>Loittering</hi> and <hi>Fetterred.</hi> And is as <hi>pernicious</hi> as it would be <hi>Rediculous</hi> to ſee theſe witty <hi>Doctors</hi> load a Horſe that can ſcarce go Empty, for fear of his running away.</p>
+            <p>Moreover, as Dr. <hi>Broun</hi> has obſerved in the Preface to his Book, this Circulation of the Blood did ſtrangely lie in the dark for many Ages, and was long oppoſed, becauſe it was thought impoſſible, (what then would theſe oppoſers have ſaid to hear its augmented now) and alſo it was oppoſed by others, becauſe altho it ſeemed to Illuſtrate the <hi>Theorie</hi> of <hi>Medecine,</hi> yet it made no improvement in the practice thereof.</p>
+            <p>But now by this <hi>Theorie</hi> of Dr. <hi>Brouns,</hi> that noble diſ<g ref="char:EOLhyphen"/>coverie is not only <hi>Confirmed,</hi> and not everted (as theſe men throgh the Groſſeſt miſtake ignorantly aſſert) but alſo is delivered from that reproach of <hi>uſeleſs.</hi> For he clearly does evince this motion of the Blood <hi>Diminiſhed,</hi> and its ſlowneſs depending upon the <hi>Groſneſs,</hi> to be the neareſt Cauſe, if not of moſt diſeaſes, yet <hi>of Continual Fevers:</hi> And further ſince he has ſhowen by what <hi>Complication</hi> and <hi>Concatenation</hi> of other Cauſes, this neareſt Cauſe by <hi>O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>der</hi> or <hi>Congreſs</hi> is fomented: How many ſolid and fruitful <hi>Indications,</hi> altogether for merly lying in the Dark, may there be drawn from thence: Eſpecially ſeing we may be furniſhed with ſufficient means to ſatisfie theſe <hi>Indica<g ref="char:EOLhyphen"/>tions:</hi> And that either by <hi>Correcting; Intercepting,</hi> or <hi>Eradicating theſe Cauſes,</hi> being deſtinctly known. And ſo this <hi>Theorie</hi> ſeemes not only to be clear in it ſelf, but alſo leads to the <hi>Practical Improvement</hi> of the <hi>Circulation</hi> of the <hi>Blood:</hi> And notwithſtanding all the applauſe the <hi>Circulation of</hi> the <hi>Blood,</hi> has deſervedly met with in the
+<pb n="32" facs="tcp:175443:19"/> World, this <hi>Theorie</hi> is as much preferable to it, as the beſt <hi>Practical Improvement</hi> is preferable to a meer <hi>Theore<g ref="char:EOLhyphen"/>tical</hi> one, and in conſequence every mans <hi>Demerit</hi> In rela<g ref="char:EOLhyphen"/>tion to the <hi>Advancing and Oppoſing</hi> this moſt <hi>Plauſible</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ſeful Theorie</hi> of Dr. <hi>Brouns,</hi> muſt be <hi>Commenſurable</hi> according to the value, it will really be found to be of.</p>
+            <p>As for the reſt of their <hi>Aſſertions,</hi> viz, That <hi>it's alwayes a received Opinion that heat in Fevers is the effect of rapid motion of the Blood.</hi> Many of the beſt Authors, as <hi>Silvius, Willes Paracelsus</hi> and <hi>Helmont,</hi> &amp;c. Attribute it to other cauſes, and albeit it had been a Commonly received Opinion, does that hinder but that it may be a <hi>Vulgar Er<g ref="char:EOLhyphen"/>ror,</hi> and as they do not attaque, one of Dr. <hi>Broun</hi>'s rea<g ref="char:EOLhyphen"/>ſons againſt it, ſo they do not bring one for it: Then they make a digreſſion into the cauſe of hea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in an <hi>Inflammation,</hi> In handling of which they firſt ſay, <hi>that the Blood is then Extravaſated,</hi> and immediatly they ſay, <hi>that the Ateries are diſtended therewith,</hi> pray let them reconcile theſe. And next they ſay, <hi>The quantity of Blood is the cauſe of heat in an Inflamation,</hi> then which there can be nothing more falſe, for in an, <hi>Anewriſma,</hi> which is a bag of <hi>Arterial, Blood</hi> with a continual <hi>Pulſation,</hi> and the part has far more Blood then an <hi>Inflammation</hi> or an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Aeriſipelas,</hi> but far leſs heat: Yea none at all beyond the reſt of the Skin.</p>
+            <p>And in fine their whole Chat for reaſoning I cannot call it is ſo <hi>pitiful</hi> and impertinent and nothing concluſive, that it appears they not only want the ſence to lay down any plauſible <hi>Hipotheſis</hi> of their own, but that they never have Conſidered, Traced, nor Expended Dr. <hi>Broun</hi>'s Con<g ref="char:EOLhyphen"/>cluſions: Far leſs can it be expected they will confute them: Which, albeit they had been falſe, could not have been di<g ref="char:EOLhyphen"/>ſtinctly done but in a Book at leaſt three times as big as his, yet this curtaleing Club pretends to do it in leſs than one Leafe.</p>
+            <pb n="33" facs="tcp:175443:19"/>
+            <p>As to what the <hi>Black Drs,</hi> alledge <hi>there is nothing an<g ref="char:EOLhyphen"/>ſwered to theſe matters of Fact, wherewith Dr<g ref="char:punc">▪</g>
+               </hi> Broun <hi>ſtands Branded in their Dialogue I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>'s anſwered firſt, that the <hi>Black Mouth'd</hi> Dis. Tongues are no <hi>Slander:</hi> Next it ſeems the heat of <hi>Black</hi>'s Furie has drained his <hi>Common ſenſe</hi> and Reaſon, for did not my former Letter tell him that their <hi>Dialogue</hi> contained nothing but <hi>Lies, Cavells</hi> and <hi>Calumnies:</hi> How come they now to ask what anſwer can be given to them. It ſeems theſe <hi>Black</hi>'s has as little Skill in <hi>Common ſence,</hi> as in <hi>Phyſick.</hi> For ſince theſe Slan<g ref="char:EOLhyphen"/>ders were denyed, they ſhould in the <hi>2d,</hi> P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mphlet have brought their proof and witneſs, ſince <hi>Philander</hi>'s denyal is a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good as either Fool <hi>Sanders,</hi> or Fool <hi>Mathews</hi> Affirmation.</p>
+            <p>That where the Black ſayes, ſince Dr, <hi>Brown ſubjected his Book to the conſideration of all Ingenuous and Faithful Phyſicians, now he has got the Sentiments of ſome of them little to his Satisfaction.</hi>
+            </p>
+            <p>Firſt, who gives <hi>Black</hi> this Teſtimony but himſelf, and dare ſuch Rogues Arrogate that name that dare not appear but in Maſquerade. Theſe Cenſurers for all their diſguiſe will be found out by their ſent to be no better than ſome piece of flat, <hi>Corum Bobus</hi> or viper riden Fopp, and ſome ill natur'd <hi>Brate,</hi> whom God and Nature has not made ſo <hi>Ridiculous</hi> as his <hi>Serpentine Viperiſh</hi> Humor has made <hi>Ignominious:</hi> And their Opinions of it is ſo much to Dr. <hi>Browns</hi> ſatisfaction, that he would never have been well ſatisfied with his Book<g ref="char:punc">▪</g> if theſe ſilly and ill hewen peces had not been mad at it. But ask what teſti<g ref="char:EOLhyphen"/>mony Dr. <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> and Dr, <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> gave of the Book, to many famous witneſſes, who yet can bea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Teſtimony of it, and whoſe Names <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d eaſily mention; but I ſuppoſe theſe Phyſicians will minch yet nothing of what was their Sentiments of it. Not that <hi>I</hi> mention this to <hi>Eſtabliſh</hi> any more Reputation
+<pb n="34" facs="tcp:175443:20"/> to Dr, <hi>Browns</hi> Book, then every reader ſhall be convinced is due to it, none having the power to <hi>Monopolize</hi> all mens Judgments, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o great a Fool is <hi>Black</hi> to attempt it.</p>
+            <p>As for theſe paſſages mentioned in their Dialogue and taken out of Dr, <hi>Browns</hi> Schedule, and called either non<g ref="char:EOLhyphen"/>ſence or Contradiction; It's anſwered Dr, <hi>Black</hi> has here proven very honeſt, and appears in his true Jugling Nature for any that will be at the pains to compare theſe paſſages with Dr, <hi>Brouns</hi> Book will find, that the moſt part of them are wrong <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> down or Courtailled, all of them, the threed and Cohe-rence of the diſcourſe br<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken and interrupted.</p>
+            <p>And for that one ſentence concerning acuteneſs, which is taxed of nonſence Dr. <hi>Brown</hi> has his end, when they break their Shines on it, for when he is ſpeaking of acutneſs neceſſary in a Phyſician, he thought fit to wrap up the mat<g ref="char:EOLhyphen"/>ter in a littly obſcurity to be a <hi>Touchſtone for a ſufficient acu<g ref="char:EOLhyphen"/>men,</hi> and ſo thoſe Blocks having deſervedly ſtumbled on it, is a clear conceſſion they are <hi>Incapable</hi> to penetrate far greater myſteries, and with<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l there are ſuch manifeſt Con<g ref="char:EOLhyphen"/>tradictions in their Dialogue, that he that runs may read (for indeed few will ſtay long to read it) This one I ſhall among many others name, firſt they repreſent Dr. <hi>Brown</hi> ſuch a ſtranger to learning, that he has never piped beyond the Title pages of Books, and a little after, they repreſent him to have ſtollen his Book out of ten or twelve of the beſt <hi>Phiſiological Authors</hi> in Phyſick.—. Dialogue page.</p>
+            <p>As to what the <hi>Black Dr<g ref="char:punc">▪</g>
+               </hi> ſayes <hi>that his old method approved by thouſands for many hundreds of years, ſhould not be overturned to eſtabliſh a new one with ſuch manifeſt Contradiction.</hi> Now <hi>Black</hi> ſpeaks like himſelf, a down right <hi>ſitten on brate</hi> in Medicine that will allow no <hi>advance</hi> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Improvement</hi> therein for hundreds of years, But, how ever long his method has been uſed, it has been ſurely very little ſucce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ful, eſpecially ſince I was any thing
+<pb n="35" facs="tcp:175443:20"/> capable to make obſervation about things, and about three years agoe as I remember there was a <hi>Phyſician</hi> in town Con<g ref="char:EOLhyphen"/>feſſed that of 30 Patients he had that year of <hi>Fevers,</hi> only two of them recovered. And if <hi>Black</hi> deny this, there will be a liſt of their Names gotten and publ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhed, and at that ſame time fevers treated by the new method were all happily Cured.</p>
+            <p>And tho <hi>Fevers</hi> be not now ſo frequent as then, per<g ref="char:EOLhyphen"/>haps many of them being frighted away or <hi>Metamorphoſed</hi> into other ſhapes, becauſe of this Civil war among Phyſicians, yet it, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very plain, that to diſeaſes formerly called <hi>Fevers,</hi> our Phyſicians now give the n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Surfeits, Colds, Rheu<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tismes,</hi> Feveriſh fitts, and I do not know what But what effect this is like to have ye may judge by this ſtory, ane <hi>Apothecary</hi> came to a <hi>Dr,</hi> with a great complaint, ſaying their Trade would be all ruined, for their Patients and Friends, ſaid they could take no thing the <hi>Phyſician</hi> had pre<g ref="char:EOLhyphen"/>ſcribed him, for they told the <hi>Phyſician</hi> miſtook their Diſeaſe, becauſe when they were ſure it was a Fever he called it they do not know what.</p>
+            <p>And indeed <hi>Philom</hi> all ordinary Fevers are als well known, and their Intention and remiſſion, to any intelli<g ref="char:EOLhyphen"/>gent <hi>Patient</hi> or by ſtander as to a <hi>Phyſician:</hi> And that by their ſenſible ſymptoms, ſuch <hi>as Heat, Drought, Pain</hi> of the <hi>Back,</hi> or <hi>Head,</hi> a Frequent pulſe, and <hi>moſt part</hi> ſudden in<g ref="char:EOLhyphen"/>vaſion of the Deſeaſe, <hi>&amp;c.</hi> Tho in ſome <hi>Fevers</hi> that are called <hi>Malignant,</hi> the ordinary ſymptoms are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>ther mild or abſent, or bears no proportion, here the <hi>Phyſician</hi> has only the priveledge to be <hi>
+                  <g ref="char:V">Ʋ</g>mpire</hi> and ſole arbitrator: But where ever he uſurp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> over Peoples ſenſes and reaſon, all he gain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is to become himſelf redi<g ref="char:EOLhyphen"/>culous. Yea ſome Phyſicians lately in Town, profeſt Enemies to this Method, having cured Fevers by the ſame, but un<g ref="char:EOLhyphen"/>der the name of another Deſeaſe, when the Patient after he was recovered, heard what the Drs. called his Diſeaſe,
+<pb n="36" facs="tcp:175443:21"/> he was almoſt frighted into the Fever again. thinking what a danger he had been in, when his <hi>Phyſician</hi> miſ-tooke his Diſeaſe, but at length the <hi>Apothicary</hi> came, and Cured him, by telling him the <hi>Knack</hi> how after this manner they concealed the new Cure of Fevers.</p>
+            <p>Where the <hi>Black Dr.</hi> ſayes, <hi>there are only</hi> 2 or 3. <hi>Young Phyſicians that follow, or favour that new Practic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Curing Fevers.</hi> It may be Anſwer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, that there are more that favour it, than follow it, perchance hindered by a too ſer<g ref="char:EOLhyphen"/>vil Veneration to Elder <hi>Phyſicians,</hi> (that is more for fear of their ill than any hope of their good,) who perhaps may get that wo, like the Phariſees, for neither following it themſelves, nor ſuffering others, and theſe that now owne it, having done it, before ever they knew Dr. <hi>Brown,</hi> did equally manifeſt their accompl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſht <hi>Sagacity,</hi> in their being among the firſt that perceived, and deſcryed <hi>Improve<g ref="char:EOLhyphen"/>ments,</hi> and their <hi>Ingenuity,</hi> that for no <hi>Baſe</hi> and <hi>By-ends,</hi> nor <hi>Slaviſh Veneration</hi> can be brought to paſs over, or ne<g ref="char:EOLhyphen"/>glect them, and further theſe, tho young in Years are capable to give good proof both by this, and their other Know<g ref="char:EOLhyphen"/>ledge, that they are <hi>Mature</hi> in accomp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſhments, far be<g ref="char:EOLhyphen"/>yond theſe <hi>Duarf ſhits,</hi> and <hi>ſitten</hi> on Brats in Medi<g ref="char:EOLhyphen"/>cine, who have made no advancement therein, in Propor<g ref="char:EOLhyphen"/>tion to their Age; And that Dr. <hi>Brown</hi>'s Enemies muſt be ſuch a <hi>Fry,</hi> appears by their ill natur'd Papers, <hi>Dwarfs</hi> and <hi>Elfs</hi> being ſtill the moſt Curſed Creatures in the World.</p>
+            <p>The <hi>Black</hi> Dr. Moreover ſayes, that <hi>it's not reaſonable to believe all theſe Perſons Inſtanced by me in my former Letter had Fevers, ſince Dr.</hi> Brown <hi>had the Impudence to call that a Fever, which two of the moſt eminent Phyſicians in</hi> Edinburgh <hi>ſaid was none; what will he then ſay, where he is ſole Phiſician.</hi>
+            </p>
+            <p>It's Anſwered, if by <hi>Eminent,</hi> they mean ſuch as carry
+<pb n="37" facs="tcp:175443:21"/> that reſpect to other <hi>Phyſicians,</hi> that the <hi>Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>klofts</hi> and <hi>Garrets</hi> do to Houſes which a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e alwayes worſt furniſht, or which (like the Weather-Cock above the Churches) ſerve only to tell how the Winds of fame <hi>Blow.</hi> It's eaſily gran<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed, that ſuch <hi>Eminencies</hi> may ſta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e themſelves in that Oppo<g ref="char:EOLhyphen"/>ſition to him, either ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Deſign, M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lice,</hi> or <hi>Ignorance.</hi>
+            </p>
+            <p>But ſince there is no Perſons, or Caſe named, Dr. <hi>Brown</hi> is not concerned to do it: but if any other will do it. I hope there may, for the good of the World, be given ſuch a clear Repreſentation of the matter, as giv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng every man his due, will lend ſuch a <hi>blow</hi> to their <hi>Eminencie,</hi> that b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ying their <hi>honeſtie</hi> in its <hi>ruine,</hi> there will ſca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce be left them als much a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſwear by.</p>
+            <p>And withall the <hi>Black Doctor</hi> ſayes, <hi>he could, were it not for fear to give Offence to their Relations, name a Counter<g ref="char:EOLhyphen"/>liſt of theſe that have died under Dr. Brown's new method.</hi>
+            </p>
+            <p>Thanks to Dr. <hi>Black</hi> for his tenderneſs, after he has <hi>Glutted</hi> himſelf with all <hi>Malicious</hi> and vile <hi>Calumnies,</hi> and <hi>Reproaches,</hi> wherein Perſons of Honour and good Credit were concerned and named. It ſeems now he has ſome remorſe, and is in a fit of Tenderneſs, and ſtands at Offence, he that ſo frankly juſt now dealt about Inju<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies; and which is more a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Offence from a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unknown hand: when the Devil. (Oh, I mean the Fox) begins to preach, have a care of the Lambs: <hi>Black</hi> is not ſo deſperatly wicked, but he can put on a viſage of Tenderneſs to ſerve a greater De<g ref="char:EOLhyphen"/>ſign: but I think it were greater Tenderneſs, and more Dr. <hi>Black</hi>'s Intereſt too, by ſuch a Counter-liſt to have alayed the grief raiſed in theſe, who have had their Friends dead under his Methods, upon their ſeing ſo much probability, they might have been Cu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, if they h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d been treated by Dr. <hi>Brown's</hi> new Method, and that at a far greater Coſt, than ſuch a <hi>Ridiculous</hi> and <hi>Chimerical</hi> Tenderneſs: but the Truth is, any ſuch Liſt being not only Impoſſible to be
+<pb n="38" facs="tcp:175443:22"/> but there being fines, ſeveral that can be added to the Liſt of theſe Cured, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter the New Method, they are for<g ref="char:EOLhyphen"/>ced to Palliat &amp; ſmother the matter after this Ridiculous <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anner, and if it could be given, as the giving of it in this Caſe, could not eaſily offend any Man, ſo it would be a conſiderable Service to the World, and prove a mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Solid and Convincing Evidence for the <hi>Club,</hi> than all they have either ſaid<g ref="char:punc">▪</g> or can ſay: there pretended <hi>Chimerical</hi> Tenderneſs then, is not only Cruelty to the whole World, but, which none but the higheſt degree of Fools can be guilty of, Cruelty to themſelves: and therefore whether they be not in this pretence, either Lyars, or Fools, or both, let the World Judge.</p>
+            <p>It's here to be Conſidered, that altho this Method of Curing Fevers has proven as yet ſo exceeding ſuccesful, that praiſe to the <hi>Author</hi> of all Gifts and Di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>coveries, Dr. <hi>Brown,</hi> and others has for ſeveral ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs practiſed it ſo ſuc<g ref="char:EOLhyphen"/>cesfully, that there has ſcarce any died under it: yet it can<g ref="char:EOLhyphen"/>not be thought Infallible, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſure that it will never miſ<g ref="char:EOLhyphen"/>carry, for there may be ſuch Compl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cation of other Diſ<g ref="char:EOLhyphen"/>tempers with the Fever, that ſometimes may evacuat the Effect: yet I think we may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay of it, as <hi>Donkers</hi> in the <hi>obſ.</hi> 32, of his Book <hi>de febre Petechiali</hi> ſayes of a Method very like this, which he uſed ſo very ſuccesfully, that ſcarce any died under it, he thinks it will a<g ref="char:EOLhyphen"/>gree to <hi>all Fevers,</hi> whether <hi>Epidemical</hi> or <hi>Malignant,</hi> which <hi>Teſtimony</hi> of his was moſt <hi>Learnedly</hi> Confuted by <hi>one</hi> of the <hi>Eminencies</hi> of the <hi>Club,</hi> who, upon hearing of it <hi>Magiſterially</hi> ſaid, he did not much regard the <hi>En<g ref="char:EOLhyphen"/>gliſh Phyſicians,</hi> who were one thing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o day, and another to Morrow: while in the mean time this <hi>Donkers</hi> is a <hi>German,</hi> and a <hi>Phyſician</hi> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Cologne<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+            <p>And albeit the <hi>Cardinal Point</hi> of this Method of Dr. <hi>Sydenhams</hi> be Purging, yet its folly to think, but there
+<pb n="39" facs="tcp:175443:22"/> is great Art, and Dexteri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to be uſed in the management thereof, the Q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>antity, Quality, the Ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and Repe<g ref="char:EOLhyphen"/>tition of the Purgative, which being uſed either within, or without the due bounds, and meaſure, proves alwayus uſeleſs or noxious:</p>
+            <p>So that the <hi>Objection</hi> of the <hi>Grand Club,</hi> that every <hi>Apothecaries B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> knows to do it, is <hi>Frivolous</hi> and <hi>Ignorant:</hi> yea, and if <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch a Method could be found out, that every <hi>Apothecary's Boy</hi> could uſe, it were a rich diſcovery: and therefore their Argument tells likewiſe, they are no ways of <hi>Generous</hi> or <hi>Publick Spirits,</hi> but <hi>Mean, Baſe</hi> and ſel<g ref="char:EOLhyphen"/>fiſh <hi>Perſons.</hi>
+            </p>
+            <p>And now <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hilom,</hi> I think, I have run over the greateſt part of their <hi>Learned</hi> miſtaken <hi>Anſwer</hi> to my firſt Letter, (paſſing by the P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>le of di<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>orged Viper Spa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and fopred, for rakeing therein might raiſe ſteem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very noxious to you) and ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn that they have brought nothing againſt Dr. <hi>Brown,</hi> but plain <hi>Cavils. Calumnies,</hi> and <hi>Foppries,</hi> and indeed that which they O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ject in the laſt place conce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ning his Education, ſavours rank of their <hi>Innate Ignorance:</hi> for they ſuppoſe no Man can be toll<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ra<g ref="char:EOLhyphen"/>bly qualified, in <hi>Medicine,</hi> unleſs he be Bred at a forraign <hi>
+                  <g ref="char:V">Ʋ</g>n verſity.</hi> I pray you <hi>Club,</hi> what Univerſities were <hi>Hypocrates, Galen, Celſus,</hi> and many of the Antients bred at: and do you not know, that ſeveral of the moſt accom<g ref="char:EOLhyphen"/>pliſht <hi>Phyſicians</hi> in <hi>England</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere never out of their own Country, ſuch as <hi>Sydenham, Willes,</hi> &amp;c. And that ſeveral of the moſt expert Lawyers in our own Nation ſtudi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d at home. Pray, did you ever read <hi>Hypocrates</hi> his <hi>Lex,</hi> where he tells<g ref="char:punc">▪</g> that there are <hi>Nomine multi, re verò pauci medici:</hi> and he makes the chief condition, and means of I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtitution, to be Induſtry and Education from a Child in the Practice. And indeed Dr. <hi>Brown</hi> being Educat in that Studie, and Practice from his Child-hood near 30
+<pb n="40" facs="tcp:175443:23"/> 
+               <hi>Years</hi> time, there is no body will doubt, but this <hi>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>teri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> paribus</hi> might he a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s good a mean for his acompliſhment i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a practice ſuitable to the <hi>genius</hi> of the <hi>Countrey,</hi> as any breeding at a foraign <hi>univerſity,</hi> for a ſhort time would be<g ref="char:punc">▪</g>
+            </p>
+            <p>A. to what they object in further perſuance of their <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> concerning Dr. <hi>Brown</hi>'s receiving Degrees at <hi>Aber<g ref="char:EOLhyphen"/>deen</hi>
+            </p>
+            <p>It's Anſwered, firſt, the receiving Degrees, in Me<g ref="char:EOLhyphen"/>dicine in any place, is very far from being a Teſtimo<g ref="char:EOLhyphen"/>ny, or proof, of any Mans accompliſhment: and is always given abroad <hi>periculo peten<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s,</hi> to the greateſt <hi>Dunces</hi> that w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l pay for it: And to prove this, can there be greater <hi>Blocks</hi> in the World than the <hi>Black Club</hi> (as their Pa<g ref="char:EOLhyphen"/>pers do bear Witneſs) who are all Foraign <hi>Graduat Doc<g ref="char:EOLhyphen"/>tors:</hi> and has learned no thing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>broad, but to Parat it to the Vulgar, after their r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>turn, in the <hi>Gibbriſh</hi> of <hi>Juſti<g ref="char:EOLhyphen"/>tutions, D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions, Courſes</hi> of <hi>Chimiſtry, Colledges</hi> of <hi>Medicine</hi> they learned abroad, and yet they never con<g ref="char:EOLhyphen"/>ned the A, B, C. of true and ſolid Knowledge.</p>
+            <p>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt it's the greateſt Impertinency Imaginable to diſ<g ref="char:EOLhyphen"/>parage Dr. <hi>Brown</hi> with receiving his Degrees at <hi>Aberdeen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> where there is a <hi>Prof<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> of <hi>Medicine,</hi> for, beſides that ſe<g ref="char:EOLhyphen"/>veral of the conſiderable Members of the Colledge of <hi>Phy<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ns</hi> at <hi>London</hi> have received their Degrees there, can any <hi>Scots</hi> man doubt but the dignitie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or Honours flowing from the Soveraign<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y of our own Nation, are much prefer<g ref="char:EOLhyphen"/>ab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to theſe Conferred by a <hi>Forraign,</hi> as is clear in <hi>Knight <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>od, N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bility,</hi> and who ever d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iparaged a <hi>Doctor</hi> of <hi>Divinity,</hi> becauſe he was Graduat within the Nation.</p>
+            <p>But with all (a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſeem the <hi>Black,</hi> do not know ſo much, albeit they be moſt of them Members of this Col<g ref="char:EOLhyphen"/>ledge) the Sover<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gnity of this Nation ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the Patent given to the <hi>Colledge</hi> of <hi>Phyſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ians</hi> at <hi>Edinburgh,</hi> annex<g ref="char:EOLunhyphen"/>ed a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rivilege to theſe Graduat within the Countrey be<g ref="char:EOLhyphen"/>yond
+<pb n="41" facs="tcp:175443:23"/> any <hi>Graduat</hi> abroad; and that is, they are <hi>ipſo facto</hi> free, and licentiat in the <hi>Colledge,</hi> without any <hi>Tryal</hi> or <hi>Compoſition;</hi> to all which theſe Graduat abroad art lyable, and what is this, but to hire us to be wiſe, and to incour<g ref="char:EOLhyphen"/>age domeſtick projects of Vertue, and Improvement, which theſe <hi>Blacks,</hi> as Enemies to Mankind in general, and to our National Improvement in Particular attempt to diſcourage and as the <hi>State</hi> has moſt juſtly given in<g ref="char:EOLhyphen"/>couragement to <hi>Domeſtick</hi> Graduation; So it were in my Opinion, the great happineſs of the Nation, becauſe, great<g ref="char:EOLhyphen"/>ly tending to the Improvement of Medicine here, that Convenient Incouragement were given for the ſtudy, and Inſtitution of <hi>Medicine</hi> within the Kingdom alſo; for thereby there would not only be ſaved a great deal of Mo<g ref="char:EOLhyphen"/>ney that is Yearly ſpent in the Breeding of <hi>Phyſicians</hi> a<g ref="char:EOLhyphen"/>broad; but alſo Students would be thereby better <hi>acom<g ref="char:EOLhyphen"/>pliſht</hi> and <hi>Educat</hi> in the <hi>Practiſe</hi> ſuitable to the <hi>Complexi<g ref="char:EOLhyphen"/>on</hi> of the Nation, and <hi>Temper</hi> of the <hi>Climat;</hi> and the Deſeaſes, and Cures proper to the <hi>Genius</hi> of the Coun<g ref="char:EOLhyphen"/>try would become ſooner familiar to them: for young <hi>Phyſicians</hi> bred abroad, return often very raw in <hi>Medi<g ref="char:EOLhyphen"/>cine,</hi> and alwayes quite ſtrangers to the <hi>Genuine</hi> Practiſe of this Country.</p>
+            <p>And ſo <hi>Philom.</hi> every thinking Man may eaſily Collect, that the only proper expedient to redeem the Nation from theſe Inconveniencies, and to promote the Advantages above-mentioned, were to Erect within the <hi>Kingdom</hi> a Profeſſion of <hi>Medicine,</hi> with <hi>Hoſpitals</hi> for the Sick, ſub<g ref="char:EOLhyphen"/>ſervient thereto.</p>
+            <p>And as Dr. <hi>Brown</hi> has done all in him lay to raiſe Do<g ref="char:EOLhyphen"/>meſtick Improvement and Vertue by his <hi>Graduation</hi> at home, ſo he has given a farther evidence of a publick <hi>Temper,</hi> by his being very Zealous to project that other National benefit of <hi>Domeſtick Improvement,</hi> the ſtudy in
+<pb n="42" facs="tcp:175443:24"/> Medicine alſo at home: for he did not only prudently choice ſuch a Patron to his Book, who (himſelf, and his Son having a conſiderabl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poſt in the State) ſeemed qua<g ref="char:EOLhyphen"/>lified to lend the Project a Lift: and to whom, as <hi>Patron</hi> he might have more freedom, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd acceſs <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o repreſent, or negotiat it: but alſo he gave in to his Lo. a ſcheme of the Project in Writ, mentioning withal the retrival of (as Dr. <hi>Brown</hi> judges) Ane appoſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to ſuſtain the Charge thereof; and as his very generous <hi>Maecenas</hi> at that time was pleaſed to look upon the O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erture, as not altogether contemptible: ſo it's not to be doubted, but after more ma<g ref="char:EOLhyphen"/>ture deliberation, his Lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will in that affair diſcharge the Office of a true <hi>Patriot</hi> of his <hi>Countrey.</hi> And this Paſſage <hi>I</hi> mention <hi>Philomath,</hi> not only as directly falling in my way, but more eſpecially, becauſe Dr. <hi>Brwn</hi>'s Enemies have been ſo Impudent, as to traduce his Temper, and de<g ref="char:EOLhyphen"/>ſigns, and Miſ. repreſent him ſtrangely, alſo in theſe; But now <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oeal to all the World, if ever any <hi>Phyſician</hi> in the Nation, (not to ſpeak of that Degenerous and Malicious Crew his Enemies,) gave ſuch Teſtimony of Publick<g ref="char:EOLhyphen"/>ſpiritedneſs, as this one paſſage (not to mention any more) clearly Imports he has done.</p>
+            <p>To return to our Purpoſe <hi>Philom.</hi> and to touch the <hi>De<g ref="char:EOLhyphen"/>finition</hi> of a <hi>Fever,</hi> which the <hi>Black Club</hi> deſiderat in Dr. <hi>Brown</hi>'s Book: They eſſay to give none themſelves, as be<g ref="char:EOLhyphen"/>ing like Ignorant <hi>bunglers,</hi> far better in throwing down other Mens Work than building themſelves; but how <hi>nonlen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al</hi> a doubt is this: juſt as one that had read both the <hi>Black Doctors <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amphlets</hi> ſhould ask for a Diſcription of the <hi>Black D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctor,</hi> for as he is therein drawn to the Life, an Ignorant F<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. and malicious Br<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te: So almoſt all Dr. <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> Book is ſpent in explaining the <hi>Nature</hi> and, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> of Fevers, whoſe varietie being <hi>Indefi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te,</hi> accord<g ref="char:EOLhyphen"/>ing to the various <hi>Diſpoſition</hi> of the <hi>Impellent</hi> and <hi>Princi<g ref="char:EOLhyphen"/>ple
+<pb n="43" facs="tcp:175443:24"/> of the Motion,</hi> the various <hi>Diſpoſition</hi> of the <hi>moveable Matter,</hi> w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ither <hi>Solid</hi> or <hi>Fluid,</hi> and of the <hi>Paſſages</hi> throw which the <hi>Motion</hi> is made: that variety, <hi>I</hi> ſay, cannot al<g ref="char:EOLhyphen"/>low us to have a <hi>clear Idea</hi> of them, be brought under ſuch narrow bounds as <hi>a Definition:</hi> but is rather the Subject mater of a <hi>Scheme:</hi> which Dr. <hi>Brown</hi> has eſſayed to draw in his Book.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> 
+               <hi>Sign</hi> of a <hi>Fever</hi> commonly called <hi>Pathognomick</hi> be the <hi>frequency</hi> of the <hi>Pulſe.</hi> yet in ſome that are un<g ref="char:EOLhyphen"/>queſtionably <hi>Fevers,</hi> the <hi>Pulſe</hi> is not frequent, which <hi>I</hi> ſuſpect may be ſolved thus. Albeit the <hi>Blood circulat</hi> as ſlowly in theſe as it does where the <hi>Pulſe</hi> is more <hi>fre<g ref="char:EOLhyphen"/>quent<g ref="char:punc">▪</g>
+               </hi> and <hi>conſequently</hi> the <hi>Contraction</hi> and <hi>Dilatation</hi> of the <hi>Arteries,</hi> are but of the ſame <hi>Extent,</hi> as when the <hi>Pulſe</hi> is <hi>frequent,</hi> yet becauſe the <hi>Velocitie</hi> and ſwiftneſs of the <hi>Contraction,</hi> and <hi>Dilatotion</hi> is alſo leſed; and they become <hi>Languiſhing</hi> and <hi>ſlow;</hi> there may be als much time ſpent in that leſſer <hi>Contraction</hi> and <hi>Dilatation,</hi> and in <hi>Con<g ref="char:EOLhyphen"/>ſequence,</hi> the <hi>Pulſe</hi> beat a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om on the Touch, as it does in health, where it moves with it's due <hi>velocitie,</hi> and ſo here the <hi>Velocity</hi> of the <hi>Contraction</hi> and <hi>Dilatation</hi> ſeems leſed, as well as the <hi>extent,</hi> of them, In Conſequence, I think this <hi>Diſcription</hi> of a <hi>Fever</hi> not Improper.</p>
+            <p>A <hi>Fever is an univerſal d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fficult Circulation of the blood and Humors, throw their groſneſs, and obſtruction of the Paſſages, having ſeveral</hi> Phenomena, <hi>as immediate effects, and others mediat from the efforts of the Impellent or firſt mover for redintegration of their motion, which is excited by the Impreſſions theſe Immediat effects make on the Im<g ref="char:EOLhyphen"/>pellent, as frequency of the Pulſe and other orgaſmes.</hi>
+            </p>
+            <p>A <hi>Fever</hi> has no <hi>Pathognomick Sign omni,</hi> it has a <hi>Pa<g ref="char:EOLhyphen"/>the gnomick Sign ſoli,</hi> that's a frequent <hi>Pulſe:</hi> and where that is wanting, the preſent ſtate of the <hi>Bloods Circulation</hi> is Collected from a <hi>Syndrome,</hi> or <hi>Concurſe</hi> of Cauſes <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="44" facs="tcp:175443:25"/> to produce that groſneſs of the Blood; the Cauſe of def<g ref="char:EOLhyphen"/>ficult <hi>Circulation;</hi> and from the preſence of the uſual <hi>Con<g ref="char:EOLhyphen"/>comitants</hi> of ſuch a <hi>Diſpoſition,</hi> and from the other <hi>Phe<g ref="char:EOLhyphen"/>nomena</hi> that as <hi>Irrdiations</hi> and <hi>Beams</hi> are darted from ſuch a <hi>Diſpoſition:</hi> all which are more largely held forth by Dr. <hi>Brown</hi> in his Book.</p>
+            <p>Now if any would be ſatisfied to have a deſcription of <hi>Dr, Blacks</hi> Nature from his <hi>Phenomena,</hi> if <hi>Ho<g ref="char:EOLhyphen"/>race</hi> who certainly was no wayes prejudicated his <hi>Deſcrip<g ref="char:EOLhyphen"/>tion</hi> of the man may be truſted, take it as he gives it <hi>Lib; 1, Saty, 4, Line,</hi> 81.</p>
+            <q>
+               <l>—<hi>Abſentemqui rodit amicum,</hi>
+               </l>
+               <l>
+                  <hi>Qui non defendit Alio Culpante: ſolutos</hi>
+               </l>
+               <l>
+                  <hi>Qui captat riſus hominum Famam<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> dicacis</hi>
+               </l>
+               <l>
+                  <hi>Fingere qui non viſa poteſt: Commiſſa tacere</hi>
+               </l>
+               <l>
+                  <hi>Qui nequit: hic niger eſt, hunc tu Romane Caveto</hi>
+               </l>
+            </q>
+            <p>Engliſhed becauſe perhaps the <hi>Blacks</hi> underſtand Latine als little as they doe Greek.</p>
+            <q>
+               <l>
+                  <hi>Who honeſt men reviles behind their Backs,</hi>
+               </l>
+               <l>
+                  <hi>And ne're defends them, he dots on ſenſelels Knacks</hi>
+               </l>
+               <l>
+                  <hi>A publick Railer; loves to break a Jeſt;</hi>
+               </l>
+               <l>
+                  <hi>And to be merry-andro at a Feaſt.</hi>
+               </l>
+               <l>
+                  <hi>Tells all he hears, and adds a great deal more</hi>
+               </l>
+               <l>
+                  <hi>Which ne'r were ſeen or ev'r heard before,</hi>
+               </l>
+               <l>
+                  <hi>My Countrey men beware of</hi> Dr, <hi>Black</hi>
+               </l>
+               <l>
+                  <hi>A Brutiſh crew, an Ignorant Deviliſh pack,</hi>
+               </l>
+               <l>
+                  <hi>Ther ſnarling Barking tells they'r Black mouth'd Dogs,</hi>
+               </l>
+               <l>
+                  <hi>Their Cavelling quirking tells they'r Ignorant Rogues.</hi>
+               </l>
+            </q>
+            <p>who ever deſires a ſhort and eaſy way, that the meaneſt Capacity may know a <hi>Black</hi> by; take this.</p>
+            <l>
+               <hi>Would you a Black clearly diſcern</hi>
+            </l>
+            <l>
+               <hi>If Dr,</hi> Brown <hi>but meet him,</hi>
+            </l>
+            <l>Black <hi>looks on him ſo cruel ſtern</hi>
+            </l>
+            <l>
+               <hi>As truely he would eat him.</hi>
+            </l>
+            <pb n="45" facs="tcp:175443:25"/>
+            <p>And to confirm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all take alſo <hi>Hipocrates</hi> the moſt wiſe of all <hi>Phiſicians</hi> his Sentiments, in his Book <hi>De Arte,</hi> Where he ſayes whoſoever endeavours with <hi>Artifice</hi> of <hi>Indiſcreet</hi> and <hi>Diſhoneſt</hi> words to diſgrace and abuſe the <hi>Diſcoveries</hi> and <hi>Inventions</hi> of others, neither Endeavors to amend them, but traduces them before the <hi>
+                  <g ref="char:V">Ʋ</g>nlearned,</hi> He ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ms incapable to be eſteemed <hi>prudent,</hi> and betrayes his <hi>Malicions Nature</hi> and <hi>Ignorance.</hi>
+            </p>
+            <p>But leaſt I be thought to leave this <hi>Malice riden Crew</hi> in Wrath, (their number as well as their Condition deſerve<g ref="char:EOLhyphen"/>ing pitty) I think it better to take a charitable farewel, and to leave them with a wholeſome and ſound advice, provid<g ref="char:EOLhyphen"/>ing they be capable to follow it; and its a preſcription of which if they can but get the right Ingredients, and make right up, it will quickly Cure their <hi>Diſtempers</hi> and mi<g ref="char:EOLhyphen"/>ſeries eſpecially their <hi>Ignorance.</hi>
+            </p>
+            <p>
+               <hi>Take of Limpid and ſmarteſt Menſtruum of</hi> Natural Acuteneſs, <hi>as much as ye can get the more the better</hi> 
+               <note n="*" place="margin">
+                  <hi>That which cannot very eaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly penetrate the prelumina<g ref="char:EOLhyphen"/>ries of Dr,</hi> Brouns <hi>Schedule, eſpecially that paragraph in the firſt Section concerning Acute<g ref="char:EOLhyphen"/>neſs, is quite dull and naught. * Not the volal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ie for that is naught, this Salt muſt be made after the manner preſcrived in the firſt Sects of Dr,</hi> Browns <hi>Schedule. * Theſe muſt be gathered and prepared after the manner in the 2d,</hi> Sect, <hi>of Dr,</hi> Browns <hi>Schedule.</hi>
+               </note> 
+               <hi>Impregnat this</hi> Menſtruum <hi>with a ſufficient quantity of</hi> the fix<g ref="char:EOLhyphen"/>ed ſalt <hi>of true ſence of the Phyſicians duty and</hi> obligation <hi>lying on</hi> him to accomplishment * <hi>theu add unto this</hi> Menſtruum, <hi>thus impregnat als much as will be proportionat to the quantity of the</hi> Menſtruum <hi>of</hi> ſerious Induſtrie <hi>conſtant Labour and in<g ref="char:EOLhyphen"/>quiſitive ſearch,</hi> * then ſeal the veſſel with the Hermetical Seal of the Phiſicians ſeque<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ration from other <hi>Imployes</hi> or <hi>Diverſions<g ref="char:punc">▪</g>
+               </hi> And ſet it in the <hi>Balneo</hi> of <hi>Speculation,</hi> let the <hi>Balneum</hi> be ſtill keeped warm with the <hi>Conſtant</hi> heat of ſerious and <hi>Intent</hi> Application of the mind till the <hi>Menſtruum Extract</hi> a <hi>Tincture</hi> that looks <hi>Brown,</hi> if it
+<pb n="46" facs="tcp:175443:26"/> look <hi>Black</hi> all is ſpoilled, it will be of a <hi>Corroſive Poiſonous</hi> Nature: then <hi>Filter</hi> the <hi>Tinctur</hi> throw the <hi>Filter</hi> of dili<g ref="char:EOLhyphen"/>gent Obſervation and ſo ye will have an <hi>Excellent Elixir Philoſophorum</hi> called <hi>Medicinal Prudence,</hi> which ye may <hi>Aromatize pro renata</hi> when ye come to uſe it with ſome <hi>Guttes</hi> or <hi>Graines</hi> of Perſonal <hi>Prudence</hi> to make it more <hi>Palatable</hi> and <hi>Paſſing.</hi>
+            </p>
+            <p>The vertues of the <hi>Elixir Prudentioe medicoe.</hi>
+            </p>
+            <p>It Cures all <hi>Reeling meg<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m<g ref="char:punc">▪</g> Giddineſs</hi> in <hi>Phyſicians,</hi> all <hi>Deliriums,</hi> and <hi>Ravings,</hi> yea <hi>Madneſs</hi> it ſelf, if it be not natural, or from bad <hi>Conformation</hi> of the Parts.</p>
+            <p>Its excellent to clear their <hi>ſight,</hi> helping all fauits of the eyes, eſpecially <hi>Suffuſions;</hi> yea, it Cures Infallibly that moſt dangerous and <hi>Epidemical</hi> Diſeaſe in <hi>Phyſicians,</hi> the <hi>Gutta Serena,</hi> where the Orgains ſeem <hi>Intainted</hi> and <hi>Sound</hi> to the Spectators, yet there is nothing but <hi>Darkneſs</hi> and <hi>Blindneſs</hi> within.</p>
+            <p>It's good in all deſeaſes from <hi>Venome</hi> and <hi>Viper ſpaun,</hi> and <hi>Malignant</hi> Humors, eſpecially againſt their <hi>Parox<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſms</hi> and <hi>Fermentations,</hi> when being ſtirsed up, they cauſe ex<g ref="char:EOLhyphen"/>ceſive belſhing out of poyſonous Eructations, not with<g ref="char:EOLhyphen"/>ſtanding whereof, they are in hazard to burſt the Body of the <hi>Patient,</hi> and obliges him ſtill to be Claſped in <hi>Ir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n-Bands</hi> and <hi>Fetters,</hi> like a <hi>Malefactor.</hi>
+            </p>
+            <p>It's good againſt all <hi>Stupidity</hi> and <hi>Fopiſhneſs in phi<g ref="char:EOLhyphen"/>ſicans,</hi> cutting all <hi>Snotty viſcuous humors,</hi> purge<g ref="char:punc">▪</g> out all Fopred that dulls their Brains.</p>
+            <p>It's good for all <hi>Rickityneſs, Dwarſing</hi> and <hi>Sitting</hi> on in <hi>Phyſicians,</hi> making them advance more in on year then they would otherwiſe do in Twenty, or Thirty.</p>
+            <p>It's good for overflowing of the <hi>Gall</hi> and <hi>Heart-burn<g ref="char:EOLhyphen"/>ing,</hi> for all <hi>Chollerick Deſeaſes,</hi> the <hi>Black</hi> and <hi>Yellow Jaundice,</hi> which make all things appear wrong to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m.</p>
+            <p>It's good alſo for the <hi>Apetitus Caninus</hi> in <hi>Phyſicians,</hi> which makes them d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>or<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſix times a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s much Imployment
+<pb n="47" facs="tcp:175443:26"/> as they are able to disgeſt or dispatch, which is a diſeaſe ordina<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly incident to theſe that are <hi>Duarft,</hi> and <hi>ſitten</hi> one in Medecine.</p>
+            <p>I ſhould have alſo given them a cure for ther Malice and wickedneſs: but that ſeems to be a Devil that cannot be caſt out wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hout Faſting and Prayer, therefore I muſt leave it to the Church-men.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>The Publiſhers Advertiſement to the <hi>Reader.</hi>
+            </head>
+            <p>Whereas the <hi>Black Doctor</hi> ſayes he will Anſwer Dr. <hi>Brown</hi> no more which if he doe not, and be als good as his Word, I'l ſwear that it's the firſt time that a <hi>Skittiſh</hi> Jade after being ſo touched in the Quick, did not both Fling and F—t. too.</p>
+            <p>If Dr, <hi>Black</hi>'s back be <hi>Galled</hi> with whipping and Smart I have an extraordinary <hi>Anodine Balſome</hi> of <hi>Conſolation</hi> to give him and its this.</p>
+            <q>Deſine Flere niger nondum pro viribus egit.</q>
+            <p>Dr. <hi>Brown,</hi>
+            </p>
+            <l>
+               <hi>solace</hi> thy ſelf, weep not <hi>Poor Sorry Black;</hi>
+            </l>
+            <l>For <hi>Brown</hi> has not yet open'd half his <hi>Pack.</hi>
+            </l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:175443:27"/>
+            <head>Errata.</head>
+            <list>
+               <item>P 13. l. 2. for ſide, 1. ſides 16. d. to.</item>
+               <item>
+                  <hi>Ibid.</hi> l. 13. &amp; 14. f. Iamalmoſtina 1. <hi>I</hi> am almoſt in a</item>
+               <item>
+                  <hi>ibid</hi> l. 19. for ſhameimuſt 1. ſhame muſt</item>
+               <item>
+                  <hi>p.</hi> 15. l, 16. f. encounterfit 1. counterfit</item>
+               <item>
+                  <hi>ibid.</hi> l. 25. for advaners 1. advancers</item>
+               <item>p. 16. l. g. f. fair 1, farie</item>
+               <item>
+                  <hi>ibid.</hi> l. 23. for any 1. many</item>
+               <item>p. 17. l. 1. f. rac 1. rake</item>
+               <item>
+                  <hi>ibid.</hi> l. 13. f. than 1. as</item>
+               <item>
+                  <hi>ibid.</hi> l. 31. f. Crackhouſe 1. Crack-louſe</item>
+               <item>P. 19. l. 12. f. but e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſpecially 1. eſpecially</item>
+               <item>P. 20. l. 31. f. will 1. wit</item>
+               <item>P. 21. l. 3. f. ſcapes 1. Scrapes</item>
+               <item>P. 22. l. ult for cled. 1. Called</item>
+               <item>P. 23. l. 5. for Concatnation 1. Concatenation</item>
+               <item>
+                  <hi>ibid.</hi> l. 15. f. Penomena. 1. Phenomena</item>
+               <item>P. 24. l. 23. f. idone 1. is done</item>
+               <item>P. 26. l. 13. for bur 1. bar.</item>
+               <item>P. 27: l. 6. f. violne 1. violence</item>
+               <item>P. 30. l. 25. f. Phaetoins 1. Phaetons</item>
+               <item>
+                  <hi>ibid.</hi> l. 28. f. Centure 1. Centres</item>
+               <item>P. 33. l. 22. f. ſent. 1. Scent.</item>
+            </list>
+            <pb facs="tcp:175443:27"/>
+            <pb facs="tcp:175443:28"/>
+            <pb facs="tcp:175443:28"/>
+            <pb facs="tcp:175443:29"/>
+            <pb facs="tcp:175443:29"/>
+            <pb facs="tcp:175443:30"/>
+            <pb facs="tcp:175443:30" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
